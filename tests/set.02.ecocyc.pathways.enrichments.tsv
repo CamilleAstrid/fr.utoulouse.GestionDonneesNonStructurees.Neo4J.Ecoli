@@ -1,0 +1,6 @@
+PEPTIDOGLYCANSYN-PWY  4.5594371091164736e-14  18  18/18  peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing)                             b1069, b0085, b0634, b3208, b3972, b0086, b0088, b0092, b0091, b3396, b0089, b0087, b0149, b2519, b3189, b0090, b3967, b0381
+PWY0-1586             8.719821780148031e-11   15  15/18  peptidoglycan maturation (<i>meso</i>-diaminopimelate containing)                                 b3208, b0634, b2010, b1678, b3396, b0084, b0632, b0376, b3182, b0839, b0089, b0149, b0635, b0925, b2519
+PWY-6387              1.3785584269708222e-07  9   9/9    UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing)  b0085, b3972, b0086, b0088, b0092, b0091, b3189, b3967, b0381
+PWY-5785              0.005685989706548435    3   3/4    di-<i>trans</i>,poly-<i>cis</i>-undecaprenyl phosphate biosynthesis                               b3057, b0174, b0841
+PWY0-1261             0.009279873461334869    6   6/20   peptidoglycan recycling I                                                                         b3972, b3730, b3189, b1192, b1107, b4233
+POLYISOPRENSYN-PWY    0.01689411308136096     3   3/6    polyisoprenoid biosynthesis (<i>E. coli</i>)                                                      b3057, b0174, b0841

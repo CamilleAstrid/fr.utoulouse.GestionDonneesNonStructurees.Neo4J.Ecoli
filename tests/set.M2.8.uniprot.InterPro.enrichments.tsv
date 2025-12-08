@@ -1,0 +1,51 @@
+IPR006311  6.237628255774252e-26   22  22/22  Twin-arginine translocation pathway, signal sequence                      b1587, b0997, b3894, b3017, b1872, b0926, b1019, b0894, b0123, b2205, b0972, b2817, b1474, b1588, b2206, b4072, b1971, b1424, b2435, b0324, b2997, b0286
+IPR019546  3.082417830608718e-11   9   9/9    Twin-arginine translocation pathway, signal sequence, bacterial/archaeal  b0972, b0894, b2206, b1872, b3017, b2997, b2996, b1424, b4072
+IPR006657  1.6891488071860425e-08  8   8/13   Molybdopterin dinucleotide-binding domain                                 b1587, b1474, b0997, b3894, b1588, b2206, b1872, b0894
+IPR006656  2.972987832827411e-08   8   8/14   Molybdopterin oxidoreductase                                              b1587, b1474, b0997, b3894, b1588, b2206, b1872, b0894
+IPR009010  5.0228234359881125e-08  8   8/15   Aspartate decarboxylase-like domain superfamily                           b1587, b0997, b3894, b1474, b1588, b2206, b1872, b0894
+IPR006655  1.0920706891292569e-07  7   7/11   Molybdopterin oxidoreductase, prokaryotic, conserved site                 b1587, b1474, b0997, b3894, b1588, b1872, b0894
+IPR030678  6.989306212586759e-07   6   6/9    Peptide/nickel binding protein, MppA-type                                 b1243, b0830, b2177, b3544, b3020, b1329
+IPR006963  1.2801286387104768e-06  6   6/10   Molybdopterin oxidoreductase, 4Fe-4S domain                               b1587, b1474, b3894, b1588, b2206, b0894
+IPR050612  2.0929023161281767e-06  5   5/6    Prokaryotic Molybdopterin Oxidoreductases                                 b1587, b0997, b1588, b1872, b0894
+IPR000914  2.2074369955083768e-06  6   6/11   Solute-binding protein family 5 domain                                    b1243, b0830, b2177, b3544, b3020, b1329
+IPR039424  2.2074369955083768e-06  6   6/11   Solute-binding protein family 5                                           b1243, b0830, b2177, b3544, b3020, b1329
+IPR025997  4.405341448575281e-06   5   5/7    Periplasmic binding protein                                               b2150, b4088, b3566, b4227, b3751
+IPR027467  8.364542659143197e-06   5   5/8    Molybdopterin oxidoreductase, molybdopterin cofactor binding site         b1474, b3894, b1588, b2206, b0894
+IPR023765  9.833589571461503e-05   4   4/7    Solute-binding protein family 5, conserved site                           b1243, b0830, b3544, b1329
+IPR011888  0.00015149150236813284  3   3/3    Anaerobic dimethyl sulphoxide reductase, subunit A, DmsA/YnfE             b1587, b0894, b1588
+IPR028082  0.0003138711101397651   6   6/27   Periplasmic binding protein-like I                                        b2150, b1901, b4088, b3566, b4227, b3751
+IPR001320  0.00035048886413055366  3   3/4    Ionotropic glutamate receptor, C-terminal                                 b0863, b0811, b1920
+IPR050555  0.0006681733082600385   3   3/5    Bacterial Solute-Binding Protein 2                                        b2150, b1901, b3566
+IPR001638  0.0007474475209820439   4   4/12   Solute-binding protein family 3/N-terminal domain of MltF                 b0863, b0811, b1920, b0655
+IPR018313  0.0017469833173801518   3   3/7    Solute-binding protein family 3, conserved site                           b0863, b0811, b1920
+IPR001821  0.0021146973075878337   2   2/2    [NiFe]-hydrogenase, small subunit                                         b2997, b0972
+IPR003369  0.0021146973075878337   2   2/2    Sec-independent protein translocase protein TatA/B/E                      b3836, b0627
+IPR006312  0.0021146973075878337   2   2/2    Sec-independent protein translocase protein TatA/E                        b3836, b0627
+IPR006443  0.0021146973075878337   2   2/2    Formate dehydrogenase-N, alpha subunit                                    b1474, b3894
+IPR011706  0.0021146973075878337   2   2/2    Multicopper oxidase, C-terminal                                           b3017, b0123
+IPR011707  0.0021146973075878337   2   2/2    Multicopper oxidase-like, N-terminal                                      b3017, b0123
+IPR027394  0.0021146973075878337   2   2/2    Cytochrome-c3 hydrogenase, C-terminal                                     b2997, b0972
+IPR037024  0.0021146973075878337   2   2/2    [NiFe]-hydrogenase, small subunit, N-terminal domain superfamily          b2997, b0972
+IPR037148  0.0021146973075878337   2   2/2    [NiFe]-hydrogenase, small subunit, C-terminal domain superfamily          b2997, b0972
+IPR041460  0.0021146973075878337   2   2/2    Molybdopterin oxidoreductase, N-terminal                                  b1872, b0997
+IPR045087  0.0021146973075878337   2   2/2    Multicopper oxidase                                                       b3017, b0123
+IPR006059  0.002545631253222084    3   3/8    Bacterial-type extracellular solute-binding protein                       b4034, b1123, b1440
+IPR001188  0.004655838775497357    2   2/3    Spermidine/putrescine-binding periplasmic protein                         b1123, b1440
+IPR002508  0.004655838775497357    2   2/3    N-acetylmuramoyl-L-alanine amidase, catalytic domain                      b2817, b2435
+IPR006658  0.004655838775497357    2   2/3    Molybdopterin guanine dinucleotide-containing S/N-oxide reductase         b1872, b0997
+IPR041954  0.004655838775497357    2   2/3    Trimethylamine-N-oxide reductase-like, molybdopterin-binding domain       b1872, b0997
+IPR050695  0.004655838775497357    2   2/3    N-acetylmuramoyl-L-alanine amidase 3                                      b2817, b2435
+IPR008972  0.008099660956950343    2   2/4    Cupredoxin                                                                b3017, b0123
+IPR028098  0.008099660956950343    2   2/4    Glycosyltransferase subfamily 4-like, N-terminal domain                   b2050, b2057
+IPR050954  0.008099660956950343    2   2/4    Electron transfer iron-sulfur cluster-binding protein                     b1671, b4072
+IPR006137  0.012385189874545928    2   2/5    NADH:ubiquinone oxidoreductase-like, 20kDa subunit                        b2997, b0972
+IPR017937  0.017454421902538615    2   2/6    Thioredoxin, conserved site                                               b3860, b2893
+IPR001296  0.02325219721765112     2   2/7    Glycosyl transferase, family 1                                            b2050, b2044
+IPR014756  0.029726078244625902    2   2/8    Immunoglobulin E-set                                                      b1424, b1841
+IPR046357  0.029726078244625902    2   2/8    Peptidyl-prolyl cis-trans isomerase domain superfamily                    b0053, b3347
+IPR017900  0.03600709950631422     4   4/37   4Fe-4S ferredoxin, iron-sulphur binding, conserved site                   b1671, b4072, b2996, b2205
+IPR004843  0.03682623290924771     2   2/9    Calcineurin-like, phosphoesterase domain                                  b0164, b4213
+IPR018357  0.03682623290924771     2   2/9    Hexapeptide transferase, conserved site                                   b2054, b2058
+IPR017853  0.03792393215361754     3   3/22   Glycoside hydrolase superfamily                                           b3338, b2132, b3571
+IPR013766  0.044505322518327214    2   2/10   Thioredoxin domain                                                        b3860, b2893
+IPR029044  0.04697311726350739     3   3/24   Nucleotide-diphospho-sugar transferases                                   b2059, b2049, b2055

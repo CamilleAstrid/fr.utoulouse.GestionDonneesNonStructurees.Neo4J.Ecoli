@@ -1,0 +1,4 @@
+31a8ddec93be7e453c2802463266b5510266239bd8c5260aaa345aed9baa3b42
+[Parent 241408, Main Thread] WARNING: Failed to mkdir /home/simetra/snap/firefox/7423/.config/ibus/bus: Not a directory: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:201
+
+(firefox_firefox:241408): IBUS-WARNING **: 00:13:19.717: Failed to mkdir /home/simetra/snap/firefox/7423/.config/ibus/bus: Not a directory

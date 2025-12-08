@@ -1,0 +1,57 @@
+> #!/usr/bin/env Rscript
+> 
+> #==========================================#
+> # SCRIPT9
+> #==========================================#
+> # Script pour calculer la distance semantique entre GOTerms sur-representes
+> # et pour générer des graphes de coexpression à partir des données de STRINGdb
+> 
+> 
+> #------------------------------------------#
+> # Chargement des librairies
+> #------------------------------------------#
+> library(neo2R)
+> library(tidyverse)
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.6
+✔ forcats   1.0.1     ✔ stringr   1.6.0
+✔ ggplot2   4.0.1     ✔ tibble    3.3.0
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.2.0     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+> library(reticulate)
+> library(jsonlite)
+
+Attaching package: ‘jsonlite’
+
+The following object is masked from ‘package:purrr’:
+
+    flatten
+
+> if (!require("BiocManager", quietly = TRUE)){install.packages("BiocManager", repos='https://mirror.ibcp.fr/pub/CRAN/')}
+Bioconductor version '3.20' is out-of-date; the current release version '3.22'
+  is available with R version '4.5'; see https://bioconductor.org/install
+> if (!require("rrvgo", quietly = TRUE)){BiocManager::install("rrvgo", update = FALSE)}
+Bioconductor version 3.20 (BiocManager 1.30.27), R 4.4.3 (2025-02-28)
+Installing package(s) 'rrvgo'
+also installing the dependencies ‘UCSC.utils’, ‘XVector’, ‘GenomeInfoDb’, ‘Biostrings’, ‘R.utils’, ‘IRanges’, ‘KEGGREST’, ‘RSpectra’, ‘GOSemSim’, ‘AnnotationDbi’, ‘GO.db’, ‘pheatmap’, ‘treemap’, ‘tm’, ‘wordcloud’, ‘shiny’, ‘umap’
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/UCSC.utils_1.2.0.tar.gz'
+Content type 'application/gzip' length 236888 bytes (231 KB)
+==================================================
+downloaded 231 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/XVector_0.46.0.tar.gz'
+Content type 'application/gzip' length 70185 bytes (68 KB)
+==================================================
+downloaded 68 KB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/GenomeInfoDb_1.42.3.tar.gz'
+Content type 'application/gzip' length 3592070 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://bioconductor.org/packages/3.20/bioc/src/contrib/Biostrings_2.74.1.tar.gz'

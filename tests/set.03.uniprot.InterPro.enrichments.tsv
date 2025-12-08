@@ -1,0 +1,48 @@
+IPR012337  6.1025614911971395e-22  22  22/36  Ribonuclease H-like superfamily                                    b1863, b4273, b0256, b1026, b2394, b1996, b2089, b1578, b4284, b0016, b4278, b1402, b0299, b0372, b0541, b0582, b3045, b3558, b4285, b0361, b1404, b2860
+IPR001584  3.1417830515690677e-20  17  17/18  Integrase, catalytic core                                          b3045, b3558, b0299, b4285, b0372, b0541, b1578, b4284, b4273, b0256, b1026, b0361, b1404, b1402, b1996, b2089, b2860
+IPR002559  8.610518962880735e-19   17  17/22  Transposase IS4-like domain                                        b1459, b2192, b2030, b1994, b0552, b0656, b1370, b2982, b0259, b4711, b1331, b3218, b0016, b4278, b3505, b2394, b0582
+IPR036397  3.399511698667659e-18   18  18/29  Ribonuclease H superfamily                                         b3045, b3558, b0299, b4285, b1578, b0372, b0541, b4284, b1863, b4273, b0256, b1026, b0361, b1404, b1402, b1996, b2089, b2860
+IPR002104  5.053176784961181e-16   13  13/13  Integrase, catalytic domain                                        b0537, b2894, b2622, b1345, b2442, b4312, b4313, b3811, b1140, b4271, b2349, b0281, b1579
+IPR011010  5.053176784961181e-16   13  13/13  DNA breaking-rejoining enzyme, catalytic core                      b0537, b2894, b2622, b1345, b2442, b4312, b4313, b3811, b1140, b4271, b2349, b0281, b1579
+IPR013762  5.053176784961181e-16   13  13/13  Integrase-like, catalytic domain superfamily                       b0537, b2894, b2622, b1345, b2442, b4312, b4313, b3811, b1140, b4271, b2349, b0281, b1579
+IPR048020  5.053176784961181e-16   13  13/13  IS3 transposase                                                    b3045, b3558, b0299, b0372, b0541, b1578, b4273, b1026, b0361, b1402, b1996, b2089, b2860
+IPR002514  1.2905211035804463e-15  13  13/14  Transposase IS3/IS911family                                        b4283, b1403, b2088, b2861, b0298, b1027, b3044, b1997, b0255, b0373, b0540, b0360, b4272
+IPR008490  7.0723089821956146e-15  12  12/12  Transposase InsH, N-terminal                                       b2030, b2192, b1994, b0552, b1370, b2982, b1331, b0259, b3218, b3505, b4711, b0656
+IPR025948  7.0723089821956146e-15  12  12/12  HTH-like domain                                                    b3045, b3558, b0299, b0372, b0541, b4273, b1026, b0361, b1402, b1996, b2089, b2860
+IPR047959  7.0723089821956146e-15  12  12/12  IS5 family transposase                                             b2030, b2192, b1994, b0552, b1370, b2982, b1331, b0259, b3218, b3505, b4711, b0656
+IPR044068  9.832777384296434e-14   11  11/11  Core-binding (CB) domain                                           b0537, b2894, b2622, b1345, b2442, b3811, b1140, b4271, b2349, b0281, b1579
+IPR010998  1.3590332177828346e-12  10  10/10  Integrase/recombinase, N-terminal                                  b0537, b2894, b2622, b1345, b2442, b3811, b1140, b4271, b2349, b1579
+IPR003220  2.560904916835469e-10   8   8/8    InsA N-terminal zinc ribbon domain                                 b1894, b4516, b0022, b4709, b3444, b0265, b4294, b0275
+IPR024431  2.560904916835469e-10   8   8/8    Insertion element IS1 protein InsA, helix-turn-helix domain        b1894, b4516, b0022, b4709, b3444, b0265, b4294, b0275
+IPR051252  2.560904916835469e-10   8   8/8    IS1 element transposase InsA                                       b1894, b4516, b0022, b4709, b3444, b0265, b4294, b0275
+IPR009057  2.56676035329772e-09    16  16/76  Homedomain-like superfamily                                        b4283, b1158, b1403, b2088, b2861, b0298, b1027, b3044, b1997, b0255, b0373, b0540, b1545, b0360, b4272, b1374
+IPR005063  3.501412090412914e-09   7   7/7    Transposase, IS1                                                   b0021, b0988, b0264, b0274, b4710, b1893, b3445
+IPR050090  3.501412090412914e-09   7   7/7    Bacterial tyrosine recombinase XerC/XerD complex                   b0537, b2894, b4312, b4313, b1345, b3811, b1579
+IPR051354  3.501412090412914e-09   7   7/7    Transposase 27 family, IS1 element                                 b0021, b0988, b0264, b0274, b4710, b1893, b3445
+IPR050900  8.68933267160931e-09    7   7/8    Transposase IS3/IS150/IS904                                        b3558, b4285, b0299, b0372, b0541, b1026, b2089
+IPR051839  8.68933267160931e-09    7   7/8    Retinal determination transcriptional regulator                    b4283, b2088, b0298, b1027, b0255, b0373, b0540
+IPR006119  6.572949563246582e-07   5   5/5    Resolvase, N-terminal catalytic domain                             b1158, b2648, b0544, b1545, b1374
+IPR025166  6.572949563246582e-07   5   5/5    Integrase, DNA-binding domain                                      b2622, b2442, b4271, b2349, b0281
+IPR038488  6.572949563246582e-07   5   5/5    Integrase, DNA-binding domain superfamily                          b2622, b2442, b4271, b2349, b0281
+IPR050808  6.572949563246582e-07   5   5/5    Phage Integrase                                                    b2622, b2442, b4271, b2349, b0281
+IPR050639  9.108319367395122e-06   4   4/4    Site-specific recombinase resolvase                                b1158, b1545, b1374, b0544
+IPR053876  9.108319367395122e-06   4   4/4    Phage integrase, central domain                                    b2349, b4271, b2622, b2442
+IPR036162  2.1704635317960462e-05  4   4/5    Resolvase-like, N-terminal catalytic domain superfamily            b1158, b1374, b1545, b0544
+IPR047952  2.1704635317960462e-05  4   4/5    IS4 family transposase                                             b0016, b4278, b2394, b0582
+IPR001598  0.00012874278251705058  3   3/3    Transposase, IS30, conserved site                                  b1404, b0256, b4284
+IPR006118  0.00012874278251705058  3   3/3    Recombinase, conserved site                                        b1158, b1545, b1374
+IPR006120  0.00012874278251705058  3   3/3    Resolvase, HTH domain                                              b1158, b1545, b1374
+IPR025246  0.00012874278251705058  3   3/3    Transposase IS30-like HTH domain                                   b1404, b0256, b4284
+IPR051917  0.00012874278251705058  3   3/3    Transposase/Integrase Enzymes                                      b1404, b0256, b4284
+IPR053392  0.00012874278251705058  3   3/3    Transposase IS30-like                                              b1404, b0256, b4284
+IPR006842  0.0009615936951571575   3   3/6    Transposase (putative), YhgA-like                                  b2305, b3411, b0132
+IPR010106  0.0009615936951571575   3   3/6    Recombination-promoting nuclease RpnA                              b2305, b3411, b0132
+IPR051699  0.0014925143294878544   3   3/7    Rpn/YhgA-like nuclease                                             b2305, b3411, b0132
+IPR022000  0.0018977222542716464   2   2/2    Min27-like integrase, DNA-binding domain                           b1345, b1579
+IPR023009  0.0018977222542716464   2   2/2    Tyrosine recombinase XerC/XerD                                     b2894, b3811
+IPR004107  0.004183054310294107    2   2/3    Integrase, SAM-like, N-terminal                                    b2894, b3811
+IPR000119  0.007285692633691922    2   2/4    Histone-like DNA-binding protein                                   b1712, b0912
+IPR010992  0.007285692633691922    2   2/4    Integration host factor (IHF)-like DNA-binding domain superfamily  b1712, b0912
+IPR020816  0.007285692633691922    2   2/4    Histone-like DNA-binding protein, conserved site                   b1712, b0912
+IPR011545  0.014534115522419474    3   3/16   DEAD/DEAH-box helicase domain                                      b3822, b3652, b0799
+IPR014001  0.029374484770906272    3   3/21   Helicase superfamily 1/2, ATP-binding domain                       b3822, b3652, b0799

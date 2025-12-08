@@ -1,0 +1,1972 @@
+[
+  {
+    "id": "1CMET2-PWY",
+    "desc": "folate transformations III (<i>E. coli<\/i>)",
+    "elements": ["b0048", "b0116", "b0529", "b1606", "b2551", "b2827", "b2903", "b2904", "b2905", "b2912", "b3941", "b4019"]
+  },
+  {
+    "id": "2PHENDEG-PWY",
+    "desc": "phenylethylamine degradation I",
+    "elements": ["b1385", "b1386"]
+  },
+  {
+    "id": "4AMINOBUTMETAB-PWY",
+    "desc": "superpathway of 4-aminobutanoate degradation",
+    "elements": ["b1300", "b1525", "b2661"]
+  },
+  {
+    "id": "ACETATEUTIL-PWY",
+    "desc": "superpathway of acetate utilization and formation",
+    "elements": ["b2296", "b2297", "b2458", "b4069"]
+  },
+  {
+    "id": "ACETOACETATE-DEG-PWY",
+    "desc": "acetoacetate degradation (to acetyl CoA)",
+    "elements": ["b1694", "b2221", "b2222", "b2224"]
+  },
+  {
+    "id": "ALADEG-PWY",
+    "desc": "L-alanine degradation I",
+    "elements": ["b1189", "b1190", "b1622", "b3008", "b4053"]
+  },
+  {
+    "id": "ALANINE-SYN2-PWY",
+    "desc": "L-alanine biosynthesis II",
+    "elements": ["b2290", "b2379"]
+  },
+  {
+    "id": "ALANINE-VALINESYN-PWY",
+    "desc": "L-alanine biosynthesis I",
+    "elements": ["b3572", "b3770"]
+  },
+  {
+    "id": "ALKANEMONOX-PWY",
+    "desc": "two-component alkanesulfonate monooxygenase",
+    "elements": ["b0935", "b0937"]
+  },
+  {
+    "id": "ALL-CHORISMATE-PWY",
+    "desc": "superpathway of chorismate metabolism",
+    "elements": ["b0048", "b0142", "b0388", "b0421", "b0583", "b0586", "b0594", "b0595", "b0596", "b0662", "b0754", "b0893", "b0908", "b0928", "b1096", "b1260", "b1261", "b1262", "b1263", "b1264", "b1606", "b1686", "b1693", "b1704", "b1719", "b1812", "b1865", "b2153", "b2232", "b2260", "b2261", "b2262", "b2263", "b2264", "b2315", "b2329", "b2563", "b2599", "b2600", "b2601", "b2697", "b2906", "b2907", "b3058", "b3177", "b3187", "b3281", "b3360", "b3389", "b3390", "b3475", "b3770", "b3833", "b3843", "b3930", "b4039", "b4040", "b4054"]
+  },
+  {
+    "id": "AMMASSIM-PWY",
+    "desc": "ammonia assimilation cycle III",
+    "elements": ["b0032", "b0033", "b0485", "b0674", "b1263", "b1264", "b1524", "b1812", "b2023", "b2025", "b2507", "b2780", "b3212", "b3213", "b3360", "b3870"]
+  },
+  {
+    "id": "ARABCAT-PWY",
+    "desc": "L-arabinose degradation I",
+    "elements": ["b0061", "b0062", "b0063"]
+  },
+  {
+    "id": "ARG+POLYAMINE-SYN",
+    "desc": "superpathway of arginine and polyamine biosynthesis",
+    "elements": ["b0032", "b0033", "b0120", "b0121", "b0186", "b0273", "b2662", "b2818", "b2937", "b2938", "b2965", "b3172", "b3359", "b3957", "b3958", "b3959", "b3960", "b4131", "b4254"]
+  },
+  {
+    "id": "ARGDEG-PWY",
+    "desc": "superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation",
+    "elements": ["b1297", "b1298", "b1300", "b1301", "b1444", "b1525", "b2661", "b2937", "b3073", "b4117"]
+  },
+  {
+    "id": "ARGSYN-PWY",
+    "desc": "L-arginine biosynthesis I (via L-ornithine)",
+    "elements": ["b0032", "b0033", "b0273", "b2662", "b2818", "b3172", "b3359", "b3957", "b3958", "b3959", "b3960", "b4254"]
+  },
+  {
+    "id": "ARO-PWY",
+    "desc": "chorismate biosynthesis I",
+    "elements": ["b0388", "b0754", "b0908", "b1693", "b1704", "b2329", "b2601", "b3281", "b3389", "b3390"]
+  },
+  {
+    "id": "ASPARAGINE-DEG1-PWY",
+    "desc": "L-asparagine degradation I",
+    "elements": ["b0828", "b1767", "b2957"]
+  },
+  {
+    "id": "ASPARAGINESYN-PWY",
+    "desc": "L-asparagine biosynthesis II",
+    "elements": ["b0674", "b3744"]
+  },
+  {
+    "id": "ASPASN-PWY",
+    "desc": "superpathway of L-aspartate and L-asparagine biosynthesis",
+    "elements": ["b0674", "b0828", "b0928", "b1767", "b2957", "b3744", "b4139"]
+  },
+  {
+    "id": "AST-PWY",
+    "desc": "L-arginine degradation II (AST pathway)",
+    "elements": ["b1744", "b1745", "b1746", "b1747", "b1748"]
+  },
+  {
+    "id": "BETSYN-PWY",
+    "desc": "glycine betaine biosynthesis I (Gram-negative bacteria)",
+    "elements": ["b0311", "b0312"]
+  },
+  {
+    "id": "BGALACT-PWY",
+    "desc": "lactose degradation III",
+    "elements": ["b0344", "b2132"]
+  },
+  {
+    "id": "BIOTIN-BIOSYNTHESIS-PWY",
+    "desc": "biotin biosynthesis I",
+    "elements": ["b0180", "b0774", "b0775", "b0776", "b0777", "b0778", "b1093", "b1094", "b1095", "b1288", "b1593", "b2323", "b2525", "b3412", "b4407"]
+  },
+  {
+    "id": "BRANCHED-CHAIN-AA-SYN-PWY",
+    "desc": "superpathway of branched chain amino acid biosynthesis",
+    "elements": ["b0071", "b0072", "b0073", "b0074", "b0077", "b0078", "b1800", "b3769", "b3770", "b3771", "b3772", "b3774", "b4054", "b4243"]
+  },
+  {
+    "id": "BSUBPOLYAMSYN-PWY",
+    "desc": "spermidine biosynthesis I",
+    "elements": ["b0120", "b0121"]
+  },
+  {
+    "id": "CARNMET-PWY",
+    "desc": "L-carnitine degradation I",
+    "elements": ["b0036", "b0037", "b0038", "b0039", "b0040"]
+  },
+  {
+    "id": "COA-PWY",
+    "desc": "coenzyme A biosynthesis I (bacteria)",
+    "elements": ["b0103", "b3634", "b3639"]
+  },
+  {
+    "id": "COBALSYN-PWY",
+    "desc": "superpathway of adenosylcobalamin salvage from cobinamide I",
+    "elements": ["b0638", "b1270", "b1991", "b1992", "b1993"]
+  },
+  {
+    "id": "COLANSYN-PWY",
+    "desc": "colanic acid building blocks biosynthesis",
+    "elements": ["b0688", "b0759", "b1236", "b1613", "b2028", "b2048", "b2049", "b2052", "b2053", "b2843", "b4025"]
+  },
+  {
+    "id": "COMPLETE-ARO-PWY",
+    "desc": "superpathway of aromatic amino acid biosynthesis",
+    "elements": ["b0388", "b0754", "b0908", "b0928", "b1260", "b1261", "b1262", "b1263", "b1264", "b1693", "b1704", "b2329", "b2599", "b2600", "b2601", "b3281", "b3389", "b3390", "b3770", "b4054"]
+  },
+  {
+    "id": "CYANCAT-PWY",
+    "desc": "cyanate degradation",
+    "elements": ["b0339", "b0340"]
+  },
+  {
+    "id": "CYSTSYN-PWY",
+    "desc": "L-cysteine biosynthesis I",
+    "elements": ["b2414", "b2421", "b3607"]
+  },
+  {
+    "id": "DAPLYSINESYN-PWY",
+    "desc": "L-lysine biosynthesis I",
+    "elements": ["b0031", "b0166", "b0907", "b2472", "b2478", "b2838", "b3359", "b3433", "b3809", "b4024"]
+  },
+  {
+    "id": "DARABCATK12-PWY",
+    "desc": "D-arabinose degradation II",
+    "elements": ["b1415", "b2800", "b2802", "b2803"]
+  },
+  {
+    "id": "DENOVOPURINE2-PWY",
+    "desc": "superpathway of purine nucleotides <i>de novo<\/i> biosynthesis II",
+    "elements": ["b0474", "b0522", "b0523", "b1131", "b1849", "b2234", "b2235", "b2312", "b2476", "b2499", "b2507", "b2508", "b2518", "b2557", "b2582", "b2673", "b2675", "b2676", "b3648", "b3781", "b4005", "b4006", "b4177", "b4238"]
+  },
+  {
+    "id": "DETOX1-PWY",
+    "desc": "superoxide radicals degradation",
+    "elements": ["b1646", "b1656", "b1732", "b3665", "b3908", "b3942"]
+  },
+  {
+    "id": "DTDPRHAMSYN-PWY",
+    "desc": "dTDP-L-rhamnose biosynthesis",
+    "elements": ["b2038", "b2039", "b2040", "b2041", "b3789"]
+  },
+  {
+    "id": "ECASYN-PWY",
+    "desc": "enterobacterial common antigen biosynthesis",
+    "elements": ["b3784", "b3792", "b3793", "b3794", "b4404"]
+  },
+  {
+    "id": "ENTBACSYN-PWY",
+    "desc": "enterobactin biosynthesis",
+    "elements": ["b0583", "b0586", "b0593", "b0594", "b0595", "b0596", "b0893", "b1719", "b2563", "b2697", "b3475"]
+  },
+  {
+    "id": "ENTNER-DOUDOROFF-PWY",
+    "desc": "Entner-Doudoroff shunt",
+    "elements": ["b1850", "b1851"]
+  },
+  {
+    "id": "ETOH-ACETYLCOA-ANA-PWY",
+    "desc": "ethanol degradation I",
+    "elements": ["b0351", "b1241", "b1478", "b2455"]
+  },
+  {
+    "id": "FAO-PWY",
+    "desc": "fatty acid &beta;-oxidation I (generic)",
+    "elements": ["b0221", "b2341", "b2342", "b3845", "b3846"]
+  },
+  {
+    "id": "FASYN-ELONG-PWY",
+    "desc": "fatty acid elongation -- saturated",
+    "elements": ["b0180", "b0954", "b1093", "b1094", "b1095", "b1288", "b2323"]
+  },
+  {
+    "id": "FASYN-INITIAL-PWY",
+    "desc": "superpathway of fatty acid biosynthesis initiation",
+    "elements": ["b0185", "b1091", "b1092", "b1094", "b1095", "b2316", "b2323"]
+  },
+  {
+    "id": "FERMENTATION-PWY",
+    "desc": "mixed acid fermentation",
+    "elements": ["b0118", "b0720", "b0903", "b1136", "b1241", "b1380", "b1478", "b1611", "b1612", "b1675", "b1676", "b1854", "b2296", "b2297", "b2455", "b2458", "b2525", "b2579", "b2719", "b2720", "b2721", "b2722", "b2723", "b2724", "b2929", "b3114", "b3236", "b3956", "b4079", "b4122", "b4151", "b4152", "b4153", "b4154"]
+  },
+  {
+    "id": "FUC-RHAMCAT-PWY",
+    "desc": "superpathway of fucose and rhamnose degradation",
+    "elements": ["b1415", "b2799", "b2800", "b2802", "b2803", "b2804", "b3605", "b3901", "b3902", "b3903", "b3904"]
+  },
+  {
+    "id": "FUCCAT-PWY",
+    "desc": "L-fucose degradation I",
+    "elements": ["b2800", "b2802", "b2803", "b2804"]
+  },
+  {
+    "id": "GALACT-GLUCUROCAT-PWY",
+    "desc": "superpathway of hexuronide and hexuronate degradation",
+    "elements": ["b1521", "b1617", "b1850", "b3091", "b3092", "b3526", "b4322", "b4323"]
+  },
+  {
+    "id": "GALACTARDEG-PWY",
+    "desc": "D-galactarate degradation I",
+    "elements": ["b0514", "b3124", "b3125", "b3126", "b3128"]
+  },
+  {
+    "id": "GALACTCAT-PWY",
+    "desc": "D-galactonate degradation",
+    "elements": ["b3692", "b3693"]
+  },
+  {
+    "id": "GALACTITOLCAT-PWY",
+    "desc": "galactitol degradation",
+    "elements": ["b1723", "b2091", "b2092", "b2093", "b2094", "b2096", "b3137"]
+  },
+  {
+    "id": "GALACTMETAB-PWY",
+    "desc": "galactose degradation I (Leloir pathway)",
+    "elements": ["b0756", "b0757", "b0758", "b0759", "b1236"]
+  },
+  {
+    "id": "GALACTUROCAT-PWY",
+    "desc": "D-galacturonate degradation I",
+    "elements": ["b1521", "b1850", "b3091", "b3092", "b3526"]
+  },
+  {
+    "id": "GLCMANNANAUT-PWY",
+    "desc": "superpathway of <i>N<\/i>-acetylglucosamine, <i>N<\/i>-acetylmannosamine and <i>N<\/i>-acetylneuraminate degradation",
+    "elements": ["b0677", "b0678", "b3221", "b3222", "b3223", "b3225", "b4310"]
+  },
+  {
+    "id": "GLUAMCAT-PWY",
+    "desc": "<i>N<\/i>-acetylglucosamine degradation I",
+    "elements": ["b0677", "b0678"]
+  },
+  {
+    "id": "GLUCARDEG-PWY",
+    "desc": "<i>D<\/i>-glucarate degradation I",
+    "elements": ["b0514", "b2787", "b3124", "b3125", "b3126"]
+  },
+  {
+    "id": "GLUCARGALACTSUPER-PWY",
+    "desc": "superpathway of D-glucarate and D-galactarate degradation",
+    "elements": ["b0514", "b2787", "b3124", "b3125", "b3126", "b3128"]
+  },
+  {
+    "id": "GLUCONEO-PWY",
+    "desc": "gluconeogenesis I",
+    "elements": ["b0766", "b0822", "b1479", "b1702", "b1779", "b2097", "b2293", "b2463", "b2779", "b2843", "b2925", "b2926", "b2930", "b3236", "b3403", "b3612", "b3697", "b3826", "b3919", "b3925", "b4025", "b4232"]
+  },
+  {
+    "id": "GLUCONSUPER-PWY",
+    "desc": "D-gluconate degradation",
+    "elements": ["b3437", "b4268"]
+  },
+  {
+    "id": "GLUCOSE1PMETAB-PWY",
+    "desc": "glucose and glucose-1-phosphate degradation",
+    "elements": ["b0124", "b0688", "b0822", "b2388", "b3697", "b3826", "b3885"]
+  },
+  {
+    "id": "GLUCUROCAT-PWY",
+    "desc": "superpathway of &beta;-D-glucuronosides degradation",
+    "elements": ["b1617", "b1850", "b3092", "b3526", "b4322", "b4323"]
+  },
+  {
+    "id": "GLUT-REDOX-PWY",
+    "desc": "glutathione-glutaredoxin redox reactions",
+    "elements": ["b0849", "b1064", "b2673", "b3610", "b3860"]
+  },
+  {
+    "id": "GLUTAMINDEG-PWY",
+    "desc": "L-glutamine degradation I",
+    "elements": ["b0032", "b0033", "b0485", "b0674", "b1263", "b1264", "b1524", "b1812", "b2023", "b2025", "b2507", "b2780", "b3212", "b3213", "b3360"]
+  },
+  {
+    "id": "GLUTATHIONESYN-PWY",
+    "desc": "glutathione biosynthesis",
+    "elements": ["b2688", "b2947"]
+  },
+  {
+    "id": "GLUTDEG-PWY",
+    "desc": "L-glutamate degradation II",
+    "elements": ["b0928", "b4139"]
+  },
+  {
+    "id": "GLUTORN-PWY",
+    "desc": "L-ornithine biosynthesis I",
+    "elements": ["b2662", "b2818", "b3359", "b3957", "b3958", "b3959"]
+  },
+  {
+    "id": "GLUTSYN-PWY",
+    "desc": "L-glutamate biosynthesis I",
+    "elements": ["b1263", "b1264", "b1812", "b3212", "b3213", "b3360"]
+  },
+  {
+    "id": "GLYCEROLMETAB-PWY",
+    "desc": "glycerol degradation V",
+    "elements": ["b1198", "b1199", "b1200", "b3945"]
+  },
+  {
+    "id": "GLYCLEAV-PWY",
+    "desc": "glycine cleavage",
+    "elements": ["b0116", "b2903", "b2904", "b2905"]
+  },
+  {
+    "id": "GLYCOCAT-PWY",
+    "desc": "glycogen degradation I",
+    "elements": ["b0403", "b0688", "b2388", "b3416", "b3417", "b3428", "b3431"]
+  },
+  {
+    "id": "GLYCOGENSYNTH-PWY",
+    "desc": "glycogen biosynthesis I (from ADP-D-Glucose)",
+    "elements": ["b0688", "b3429", "b3430", "b3432"]
+  },
+  {
+    "id": "GLYCOL-GLYOXDEG-PWY",
+    "desc": "superpathway of glycol metabolism and degradation",
+    "elements": ["b0507", "b0514", "b1415", "b2799", "b2976", "b2978", "b2979", "b3124"]
+  },
+  {
+    "id": "GLYCOLATEMET-PWY",
+    "desc": "glycolate and glyoxylate degradation I",
+    "elements": ["b0507", "b0514", "b2978", "b2979", "b3124", "b3125"]
+  },
+  {
+    "id": "GLYCOLYSIS",
+    "desc": "glycolysis I (from glucose 6-phosphate)",
+    "elements": ["b0755", "b0766", "b0822", "b1101", "b1676", "b1702", "b1723", "b1779", "b1817", "b1818", "b1819", "b1854", "b2097", "b2293", "b2417", "b2779", "b2843", "b2925", "b2926", "b2930", "b3612", "b3697", "b3826", "b3916", "b3919", "b3925", "b4025", "b4232"]
+  },
+  {
+    "id": "GLYCOLYSIS-E-D",
+    "desc": "superpathway of glycolysis and the Entner-Doudoroff pathway",
+    "elements": ["b0755", "b0766", "b0767", "b0822", "b1101", "b1676", "b1702", "b1723", "b1779", "b1817", "b1818", "b1819", "b1850", "b1851", "b1852", "b1854", "b2097", "b2293", "b2417", "b2779", "b2843", "b2925", "b2926", "b2930", "b3612", "b3697", "b3826", "b3916", "b3919", "b3925", "b4025", "b4232"]
+  },
+  {
+    "id": "GLYCOLYSIS-TCA-GLYOX-BYPASS",
+    "desc": "superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass",
+    "elements": ["b0114", "b0115", "b0116", "b0118", "b0720", "b0721", "b0722", "b0723", "b0724", "b0726", "b0727", "b0728", "b0729", "b0755", "b0766", "b0822", "b1101", "b1136", "b1276", "b1479", "b1611", "b1612", "b1675", "b1676", "b1702", "b1723", "b1779", "b1817", "b1818", "b1819", "b1854", "b2097", "b2210", "b2293", "b2417", "b2779", "b2843", "b2925", "b2926", "b2929", "b2930", "b3236", "b3612", "b3697", "b3826", "b3916", "b3919", "b3925", "b4014", "b4015", "b4025", "b4122", "b4232"]
+  },
+  {
+    "id": "GLYOXDEG-PWY",
+    "desc": "glycolate and glyoxylate degradation II",
+    "elements": ["b2976", "b2978", "b2979"]
+  },
+  {
+    "id": "GLYOXYLATE-BYPASS",
+    "desc": "glyoxylate cycle",
+    "elements": ["b0118", "b0720", "b1276", "b1479", "b3236", "b4014", "b4015"]
+  },
+  {
+    "id": "HCAMHPDEG-PWY",
+    "desc": "3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate",
+    "elements": ["b0347", "b0348", "b0349", "b2538", "b2539", "b2540", "b2541", "b2542"]
+  },
+  {
+    "id": "HEME-BIOSYNTHESIS-II-1",
+    "desc": "heme <i>b<\/i> biosynthesis V (aerobic)",
+    "elements": ["b0475", "b2436", "b3850", "b3997"]
+  },
+  {
+    "id": "HEMESYN2-PWY",
+    "desc": "heme <i>b<\/i> biosynthesis II (oxygen-independent)",
+    "elements": ["b0475", "b3850", "b3867", "b3997"]
+  },
+  {
+    "id": "HEXITOLDEGSUPER-PWY",
+    "desc": "superpathway of hexitol degradation (bacteria)",
+    "elements": ["b0383", "b0755", "b0766", "b0822", "b1676", "b1702", "b1723", "b1779", "b1854", "b2091", "b2092", "b2093", "b2094", "b2096", "b2097", "b2293", "b2705", "b2779", "b2925", "b2926", "b2930", "b3137", "b3600", "b3612", "b3697", "b3826", "b3916", "b3919", "b3925", "b4232"]
+  },
+  {
+    "id": "HISTSYN-PWY",
+    "desc": "L-histidine biosynthesis",
+    "elements": ["b2019", "b2020", "b2021", "b2022", "b2023", "b2024", "b2025", "b2026"]
+  },
+  {
+    "id": "HOMOSER-METSYN-PWY",
+    "desc": "L-methionine biosynthesis I",
+    "elements": ["b1622", "b3008", "b3829", "b3939", "b4013", "b4019"]
+  },
+  {
+    "id": "HOMOSER-THRESYN-PWY",
+    "desc": "L-threonine biosynthesis",
+    "elements": ["b0003", "b0004"]
+  },
+  {
+    "id": "HOMOSERSYN-PWY",
+    "desc": "L-homoserine biosynthesis",
+    "elements": ["b0002", "b3433", "b3940", "b4024"]
+  },
+  {
+    "id": "IDNCAT-PWY",
+    "desc": "L-idonate degradation",
+    "elements": ["b4266", "b4267", "b4268"]
+  },
+  {
+    "id": "ILEUSYN-PWY",
+    "desc": "L-isoleucine biosynthesis I (from threonine)",
+    "elements": ["b0077", "b0078", "b3769", "b3770", "b3771", "b3772", "b3774", "b4243"]
+  },
+  {
+    "id": "KDO-LIPASYN-PWY",
+    "desc": "(Kdo)<sub>2<\/sub>-lipid A biosynthesis (<i>E. coli<\/i>)",
+    "elements": ["b1054", "b1094", "b1855"]
+  },
+  {
+    "id": "KDO-NAGLIPASYN-PWY",
+    "desc": "superpathway of (Kdo)<SUB>2<\/SUB>-lipid A biosynthesis",
+    "elements": ["b0096", "b0179", "b0181", "b0182", "b0524", "b0915", "b0918", "b1054", "b1094", "b1215", "b1855", "b2378", "b2708", "b3197", "b3198", "b3633"]
+  },
+  {
+    "id": "KETOGLUCONMET-PWY",
+    "desc": "ketogluconate metabolism",
+    "elements": ["b0207", "b3012", "b3553", "b4266", "b4267", "b4268"]
+  },
+  {
+    "id": "LCYSDEG-PWY",
+    "desc": "L-cysteine degradation II",
+    "elements": ["b1622", "b2414", "b2421", "b3008", "b3109", "b3708", "b4243"]
+  },
+  {
+    "id": "LEUSYN-PWY",
+    "desc": "L-leucine biosynthesis",
+    "elements": ["b0071", "b0072", "b0073", "b0074", "b1800", "b3770", "b4054"]
+  },
+  {
+    "id": "LIPA-CORESYN-PWY",
+    "desc": "lipid A-core biosynthesis (<i>E. coli<\/i> K-12)",
+    "elements": ["b3620", "b3621", "b3623", "b3625", "b3626", "b3627", "b3628", "b3630", "b3631", "b3632"]
+  },
+  {
+    "id": "LPSSYN-PWY",
+    "desc": "superpathway of Kdo<sub>2<\/sub>-lipid A biosynthesis",
+    "elements": ["b0096", "b0179", "b0181", "b0182", "b0524", "b0915", "b0918", "b1054", "b1094", "b1215", "b1855", "b2708", "b3197", "b3198", "b3620", "b3621", "b3623", "b3625", "b3626", "b3627", "b3628", "b3630", "b3631", "b3632", "b3633"]
+  },
+  {
+    "id": "LYXMET-PWY",
+    "desc": "L-lyxose degradation",
+    "elements": ["b0061", "b3580", "b3582", "b3583", "b3903"]
+  },
+  {
+    "id": "MANNCAT-PWY",
+    "desc": "D-mannose degradation I",
+    "elements": ["b1613", "b1817", "b1818", "b1819"]
+  },
+  {
+    "id": "MET-SAM-PWY",
+    "desc": "superpathway of <i>S<\/i>-adenosyl-L-methionine biosynthesis",
+    "elements": ["b1622", "b2942", "b3008", "b3433", "b3829", "b3939", "b3940", "b4013", "b4019"]
+  },
+  {
+    "id": "METHGLYUT-PWY",
+    "desc": "superpathway of methylglyoxal degradation",
+    "elements": ["b0207", "b0212", "b0927", "b1415", "b1651", "b1781", "b2133", "b2154", "b3001", "b3011", "b3012", "b3605", "b3945"]
+  },
+  {
+    "id": "METSYN-PWY",
+    "desc": "superpathway of L-homoserine and L-methionine biosynthesis",
+    "elements": ["b1622", "b3008", "b3433", "b3829", "b3939", "b3940", "b4013", "b4019"]
+  },
+  {
+    "id": "NADPHOS-DEPHOS-PWY",
+    "desc": "NAD phosphorylation and dephosphorylation",
+    "elements": ["b1602", "b1603", "b2615"]
+  },
+  {
+    "id": "NAGLIPASYN-PWY",
+    "desc": "lipid IV<sub>A<\/sub> biosynthesis (<i>E. coli<\/i>)",
+    "elements": ["b0096", "b0179", "b0181", "b0182", "b0524", "b0915", "b1094"]
+  },
+  {
+    "id": "NONMEVIPP-PWY",
+    "desc": "methylerythritol phosphate pathway I",
+    "elements": ["b0029", "b0173", "b0420", "b0684", "b1208", "b2515", "b2746", "b2747", "b2889", "b2895"]
+  },
+  {
+    "id": "NONOXIPENT-PWY",
+    "desc": "pentose phosphate pathway (non-oxidative branch) I",
+    "elements": ["b0008", "b2464", "b2465", "b2914", "b2935", "b3386", "b4090"]
+  },
+  {
+    "id": "OANTIGEN-PWY",
+    "desc": "<i>O<\/i>-antigen building blocks biosynthesis (<i>E. coli<\/i>)",
+    "elements": ["b2036", "b2038", "b2039", "b2040", "b2041", "b2843", "b3176", "b3729", "b3730", "b3789", "b4025"]
+  },
+  {
+    "id": "ORNARGDEG-PWY",
+    "desc": "superpathway of L-arginine and L-ornithine degradation",
+    "elements": ["b0693", "b1297", "b1298", "b1300", "b1301", "b1444", "b1525", "b2661", "b2937", "b3073", "b4117"]
+  },
+  {
+    "id": "ORNDEG-PWY",
+    "desc": "superpathway of ornithine degradation",
+    "elements": ["b0693", "b1297", "b1298", "b1300", "b1301", "b1444", "b3073"]
+  },
+  {
+    "id": "OXIDATIVEPENT-PWY",
+    "desc": "pentose phosphate pathway (oxidative branch) I",
+    "elements": ["b0767", "b1852", "b2029"]
+  },
+  {
+    "id": "P2-PWY",
+    "desc": "citrate lyase activation",
+    "elements": ["b0613", "b0614", "b0615", "b0616", "b0617", "b0618"]
+  },
+  {
+    "id": "P4-PWY",
+    "desc": "superpathway of L-lysine, L-threonine and L-methionine biosynthesis I",
+    "elements": ["b0003", "b0004", "b0031", "b0166", "b0907", "b0928", "b1622", "b2472", "b2478", "b2838", "b3008", "b3359", "b3433", "b3809", "b3829", "b3939", "b4013", "b4019", "b4024"]
+  },
+  {
+    "id": "PANTO-PWY",
+    "desc": "phosphopantothenate biosynthesis I",
+    "elements": ["b0133", "b0134", "b0425", "b3774", "b3974"]
+  },
+  {
+    "id": "PANTOSYN-PWY",
+    "desc": "superpathway of coenzyme A biosynthesis I (bacteria)",
+    "elements": ["b0103", "b0131", "b0133", "b0134", "b0425", "b3634", "b3639", "b3774", "b3974"]
+  },
+  {
+    "id": "PENTOSE-P-PWY",
+    "desc": "pentose phosphate pathway",
+    "elements": ["b0008", "b0767", "b1852", "b2029", "b2464", "b2465", "b2914", "b2935", "b3386", "b4090"]
+  },
+  {
+    "id": "PEPTIDOGLYCANSYN-PWY",
+    "desc": "peptidoglycan biosynthesis I (<I>meso<\/I>-diaminopimelate containing)",
+    "elements": ["b0085", "b0086", "b0087", "b0088", "b0089", "b0090", "b0091", "b0092", "b0149", "b0381", "b0634", "b1069", "b2519", "b3189", "b3208", "b3396", "b3967", "b3972"]
+  },
+  {
+    "id": "PHESYN",
+    "desc": "L-phenylalanine biosynthesis I",
+    "elements": ["b0928", "b2599", "b2600", "b3770", "b4054"]
+  },
+  {
+    "id": "PHOSLIPSYN-PWY",
+    "desc": "superpathway of phospholipid biosynthesis III (<i>E. coli<\/i>)",
+    "elements": ["b0175", "b0418", "b0789", "b1046", "b1094", "b1249", "b1278", "b1912", "b2560", "b2585", "b3018", "b3608", "b4041", "b4160"]
+  },
+  {
+    "id": "PLPSAL-PWY",
+    "desc": "pyridoxal 5'-phosphate salvage I",
+    "elements": ["b1406", "b1636", "b1638", "b2418"]
+  },
+  {
+    "id": "POLYAMSYN-PWY",
+    "desc": "superpathway of polyamine biosynthesis I",
+    "elements": ["b0120", "b0121", "b0186", "b2937", "b2938", "b2965", "b4131"]
+  },
+  {
+    "id": "POLYISOPRENSYN-PWY",
+    "desc": "polyisoprenoid biosynthesis (<i>E. coli<\/i>)",
+    "elements": ["b0174", "b0421", "b0841", "b1278", "b3057", "b3187"]
+  },
+  {
+    "id": "PPGPPMET-PWY",
+    "desc": "ppGpp metabolism",
+    "elements": ["b0049", "b0474", "b2518", "b2784", "b3650", "b3779"]
+  },
+  {
+    "id": "PROSYN-PWY",
+    "desc": "L-proline biosynthesis I (from L-glutamate)",
+    "elements": ["b0242", "b0243", "b0386"]
+  },
+  {
+    "id": "PRPP-PWY",
+    "desc": "superpathway of histidine, purine, and pyrimidine biosynthesis",
+    "elements": ["b0032", "b0033", "b0171", "b0474", "b0522", "b0523", "b0945", "b1062", "b1131", "b1207", "b1281", "b1849", "b2019", "b2020", "b2021", "b2022", "b2023", "b2024", "b2025", "b2026", "b2234", "b2235", "b2312", "b2476", "b2499", "b2507", "b2508", "b2518", "b2557", "b2582", "b2673", "b2675", "b2676", "b2780", "b3642", "b3648", "b3781", "b4005", "b4006", "b4177", "b4238", "b4244", "b4245"]
+  },
+  {
+    "id": "PUTDEG-PWY",
+    "desc": "putrescine degradation I",
+    "elements": ["b1300", "b1444", "b3073"]
+  },
+  {
+    "id": "PWY-1269",
+    "desc": "CMP-3-deoxy-D-<I>manno<\/I>-octulosonate biosynthesis",
+    "elements": ["b0918", "b1215", "b2708", "b3197", "b3198"]
+  },
+  {
+    "id": "PWY-1801",
+    "desc": "formaldehyde oxidation II (glutathione-dependent)",
+    "elements": ["b0355", "b0356", "b2154"]
+  },
+  {
+    "id": "PWY-2161",
+    "desc": "folate polyglutamylation",
+    "elements": ["b2315", "b2551"]
+  },
+  {
+    "id": "PWY-40",
+    "desc": "putrescine biosynthesis I",
+    "elements": ["b2937", "b2938"]
+  },
+  {
+    "id": "PWY-4261",
+    "desc": "glycerol degradation I",
+    "elements": ["b2241", "b2242", "b2243", "b3426", "b3926"]
+  },
+  {
+    "id": "PWY-4381",
+    "desc": "fatty acid biosynthesis initiation (type II)",
+    "elements": ["b0185", "b1091", "b1092", "b1094", "b2316"]
+  },
+  {
+    "id": "PWY-5084",
+    "desc": "2-oxoglutarate decarboxylation to succinyl-CoA",
+    "elements": ["b0116", "b0726", "b0727"]
+  },
+  {
+    "id": "PWY-5162",
+    "desc": "2-hydroxypenta-2,4-dienoate degradation",
+    "elements": ["b0350", "b0351", "b0352", "b2455"]
+  },
+  {
+    "id": "PWY-5188",
+    "desc": "uroporphyrinogen-III I (from glutamate)",
+    "elements": ["b0154", "b0369", "b1210", "b2400", "b2590", "b3757", "b3804", "b3805", "b3969", "b4008"]
+  },
+  {
+    "id": "PWY-5329",
+    "desc": "L-cysteine degradation III",
+    "elements": ["b0928", "b2521", "b2582", "b3781"]
+  },
+  {
+    "id": "PWY-5340",
+    "desc": "sulfate activation for sulfonation",
+    "elements": ["b2750", "b2751", "b2752"]
+  },
+  {
+    "id": "PWY-5350",
+    "desc": "thiosulfate disproportionation IV (rhodanese)",
+    "elements": ["b1308", "b2521", "b2668", "b3425"]
+  },
+  {
+    "id": "PWY-5386",
+    "desc": "methylglyoxal degradation I",
+    "elements": ["b0212", "b0927", "b1651", "b2133", "b2154"]
+  },
+  {
+    "id": "PWY-5436",
+    "desc": "L-threonine degradation IV",
+    "elements": ["b0351", "b0870", "b1241", "b2455"]
+  },
+  {
+    "id": "PWY-5437",
+    "desc": "L-threonine degradation I",
+    "elements": ["b0903", "b2296", "b2297", "b2579", "b3114", "b3115", "b3117", "b4243"]
+  },
+  {
+    "id": "PWY-5453",
+    "desc": "methylglyoxal degradation III",
+    "elements": ["b0207", "b1781", "b3001", "b3011", "b3012", "b3945"]
+  },
+  {
+    "id": "PWY-5459",
+    "desc": "methylglyoxal degradation IV",
+    "elements": ["b1415", "b3605"]
+  },
+  {
+    "id": "PWY-5484",
+    "desc": "glycolysis II (from fructose 6-phosphate)",
+    "elements": ["b0383", "b0755", "b0766", "b0822", "b1676", "b1702", "b1723", "b1779", "b1854", "b2097", "b2293", "b2779", "b2925", "b2926", "b2930", "b3612", "b3697", "b3826", "b3916", "b3919", "b3925", "b4232"]
+  },
+  {
+    "id": "PWY-5509",
+    "desc": "adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I",
+    "elements": ["b0638", "b1991", "b1992"]
+  },
+  {
+    "id": "PWY-5659",
+    "desc": "GDP-mannose biosynthesis",
+    "elements": ["b1613", "b2048", "b2049", "b2843", "b4025"]
+  },
+  {
+    "id": "PWY-5667",
+    "desc": "CDP-diacylglycerol biosynthesis I",
+    "elements": ["b0175", "b3018", "b3608", "b4041"]
+  },
+  {
+    "id": "PWY-5668",
+    "desc": "cardiolipin biosynthesis I",
+    "elements": ["b0418", "b0789", "b1249", "b1278", "b1912", "b2560"]
+  },
+  {
+    "id": "PWY-5669",
+    "desc": "phosphatidylserine and phosphatidylethanolamine biosynthesis I",
+    "elements": ["b2585", "b4160"]
+  },
+  {
+    "id": "PWY-5686",
+    "desc": "UMP biosynthesis I",
+    "elements": ["b0032", "b0033", "b0945", "b1062", "b1281", "b3642", "b4244", "b4245"]
+  },
+  {
+    "id": "PWY-5698",
+    "desc": "allantoin degradation to ureidoglycolate II (ammonia producing)",
+    "elements": ["b0511", "b0512", "b0515", "b0516"]
+  },
+  {
+    "id": "PWY-5705",
+    "desc": "allantoin degradation to glyoxylate III",
+    "elements": ["b0505", "b0511", "b0512", "b0515", "b0516"]
+  },
+  {
+    "id": "PWY-5785",
+    "desc": "di-<i>trans<\/i>,poly-<i>cis<\/i>-undecaprenyl phosphate biosynthesis",
+    "elements": ["b0174", "b0841", "b1278", "b3057"]
+  },
+  {
+    "id": "PWY-5837",
+    "desc": "2-carboxy-1,4-naphthoquinol biosynthesis",
+    "elements": ["b1686", "b2260", "b2261", "b2262", "b2263", "b2264", "b2265"]
+  },
+  {
+    "id": "PWY-5838",
+    "desc": "superpathway of menaquinol-8 biosynthesis I",
+    "elements": ["b1686", "b2260", "b2261", "b2262", "b2263", "b2264", "b2265", "b3187", "b3833", "b3930"]
+  },
+  {
+    "id": "PWY-5901",
+    "desc": "2,3-dihydroxybenzoate biosynthesis",
+    "elements": ["b0593", "b0595", "b0596"]
+  },
+  {
+    "id": "PWY-5965",
+    "desc": "fatty acid biosynthesis initiation III",
+    "elements": ["b1094", "b1095", "b2323"]
+  },
+  {
+    "id": "PWY-5966",
+    "desc": "fatty acid biosynthesis initiation II",
+    "elements": ["b1091", "b1094", "b1095", "b2323"]
+  },
+  {
+    "id": "PWY-5971",
+    "desc": "palmitate biosynthesis II (type II fatty acid synthase)",
+    "elements": ["b0180", "b1093", "b1094", "b1095", "b1288", "b2323"]
+  },
+  {
+    "id": "PWY-5973",
+    "desc": "<i>cis<\/i>-vaccenate biosynthesis",
+    "elements": ["b0180", "b0494", "b1093", "b1094", "b1095", "b1288", "b2323"]
+  },
+  {
+    "id": "PWY-6012",
+    "desc": "acyl carrier protein metabolism",
+    "elements": ["b0404", "b0586", "b0595", "b1094", "b2563", "b3475"]
+  },
+  {
+    "id": "PWY-6019",
+    "desc": "pseudouridine degradation",
+    "elements": ["b2165", "b2166"]
+  },
+  {
+    "id": "PWY-6038",
+    "desc": "citrate degradation",
+    "elements": ["b0615", "b0616", "b0617"]
+  },
+  {
+    "id": "PWY-6071",
+    "desc": "superpathway of phenylethylamine degradation",
+    "elements": ["b1385", "b1386", "b1387", "b1388", "b1389", "b1390", "b1392", "b1393", "b1394", "b1395", "b1397", "b1398"]
+  },
+  {
+    "id": "PWY-6121",
+    "desc": "5-aminoimidazole ribonucleotide biosynthesis I",
+    "elements": ["b2312", "b2499", "b2500", "b2557", "b4005"]
+  },
+  {
+    "id": "PWY-6122",
+    "desc": "5-aminoimidazole ribonucleotide biosynthesis II",
+    "elements": ["b1849", "b2312", "b2499", "b2557", "b4005"]
+  },
+  {
+    "id": "PWY-6123",
+    "desc": "inosine-5'-phosphate biosynthesis I",
+    "elements": ["b0522", "b0523", "b1131", "b2476", "b4006"]
+  },
+  {
+    "id": "PWY-6125",
+    "desc": "superpathway of guanosine nucleotides <i>de novo<\/i> biosynthesis II",
+    "elements": ["b0474", "b2234", "b2235", "b2507", "b2508", "b2518", "b2582", "b2673", "b2675", "b2676", "b3648", "b3781", "b4238"]
+  },
+  {
+    "id": "PWY-6126",
+    "desc": "superpathway of adenosine nucleotides <i>de novo<\/i> biosynthesis II",
+    "elements": ["b0474", "b1131", "b2234", "b2235", "b2518", "b2582", "b2673", "b2675", "b2676", "b3781", "b4177", "b4238"]
+  },
+  {
+    "id": "PWY-6147",
+    "desc": "6-hydroxymethyl-dihydropterin diphosphate biosynthesis I",
+    "elements": ["b0142", "b1865", "b2153", "b3058"]
+  },
+  {
+    "id": "PWY-6151",
+    "desc": "<i>S<\/i>-adenosyl-L-methionine salvage I",
+    "elements": ["b0159", "b2687", "b2942", "b3829", "b4019"]
+  },
+  {
+    "id": "PWY-6153",
+    "desc": "autoinducer AI-2 biosynthesis I",
+    "elements": ["b0159", "b2687"]
+  },
+  {
+    "id": "PWY-6163",
+    "desc": "chorismate biosynthesis from 3-dehydroquinate",
+    "elements": ["b0388", "b0908", "b1693", "b2329", "b3281", "b3390"]
+  },
+  {
+    "id": "PWY-6164",
+    "desc": "3-dehydroquinate biosynthesis I",
+    "elements": ["b0754", "b1704", "b2601", "b3389"]
+  },
+  {
+    "id": "PWY-6277",
+    "desc": "superpathway of 5-aminoimidazole ribonucleotide biosynthesis",
+    "elements": ["b1849", "b2312", "b2499", "b2500", "b2557", "b4005"]
+  },
+  {
+    "id": "PWY-6282",
+    "desc": "palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)",
+    "elements": ["b0180", "b0494", "b0954", "b1093", "b1094", "b1095", "b1288", "b2323"]
+  },
+  {
+    "id": "PWY-6284",
+    "desc": "superpathway of unsaturated fatty acids biosynthesis (<i>E. coli<\/i>)",
+    "elements": ["b0180", "b0494", "b0954", "b1093", "b1094", "b1095", "b1288", "b2323"]
+  },
+  {
+    "id": "PWY-6387",
+    "desc": "UDP-<i>N<\/i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso<\/i>-diaminopimelate containing)",
+    "elements": ["b0085", "b0086", "b0088", "b0091", "b0092", "b0381", "b3189", "b3967", "b3972"]
+  },
+  {
+    "id": "PWY-6519",
+    "desc": "8-amino-7-oxononanoate biosynthesis I",
+    "elements": ["b0180", "b0776", "b0777", "b1093", "b1094", "b1095", "b1288", "b2323", "b3412"]
+  },
+  {
+    "id": "PWY-6535",
+    "desc": "4-aminobutanoate degradation I",
+    "elements": ["b1300", "b1302", "b1525"]
+  },
+  {
+    "id": "PWY-6537",
+    "desc": "4-aminobutanoate degradation II",
+    "elements": ["b2661", "b2662"]
+  },
+  {
+    "id": "PWY-6543",
+    "desc": "4-aminobenzoate biosynthesis I",
+    "elements": ["b1096", "b1812", "b3360"]
+  },
+  {
+    "id": "PWY-6556",
+    "desc": "pyrimidine ribonucleosides salvage II",
+    "elements": ["b0030", "b0651", "b2143", "b2162"]
+  },
+  {
+    "id": "PWY-6579",
+    "desc": "superpathway of guanine and guanosine salvage",
+    "elements": ["b0125", "b0238", "b0391", "b0477", "b2407", "b4384"]
+  },
+  {
+    "id": "PWY-66",
+    "desc": "GDP-L-fucose biosynthesis I (from GDP-D-mannose)",
+    "elements": ["b2052", "b2053"]
+  },
+  {
+    "id": "PWY-6605",
+    "desc": "adenine and adenosine salvage II",
+    "elements": ["b0030", "b0469"]
+  },
+  {
+    "id": "PWY-6608",
+    "desc": "guanosine nucleotides degradation III",
+    "elements": ["b0391", "b0675", "b2407", "b2744", "b2866", "b2867", "b2868", "b2883", "b3399", "b4055", "b4384"]
+  },
+  {
+    "id": "PWY-6609",
+    "desc": "adenine and adenosine salvage III",
+    "elements": ["b0125", "b0238", "b0391", "b1623", "b2407", "b2593", "b4384"]
+  },
+  {
+    "id": "PWY-6611",
+    "desc": "adenine and adenosine salvage V",
+    "elements": ["b0391", "b0477", "b1623", "b2593", "b4384"]
+  },
+  {
+    "id": "PWY-6612",
+    "desc": "superpathway of tetrahydrofolate biosynthesis",
+    "elements": ["b0048", "b0142", "b1096", "b1606", "b1812", "b1865", "b2153", "b2315", "b3058", "b3177", "b3360"]
+  },
+  {
+    "id": "PWY-6614",
+    "desc": "tetrahydrofolate biosynthesis I",
+    "elements": ["b0048", "b1606", "b2315", "b3177"]
+  },
+  {
+    "id": "PWY-6617",
+    "desc": "adenosine nucleotides degradation III",
+    "elements": ["b1982", "b2795"]
+  },
+  {
+    "id": "PWY-6620",
+    "desc": "guanine and guanosine salvage I",
+    "elements": ["b0125", "b0238", "b0391", "b2407", "b4384"]
+  },
+  {
+    "id": "PWY-6690",
+    "desc": "cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate",
+    "elements": ["b0347", "b0348", "b0349", "b2538", "b2539", "b2540", "b2541", "b2542"]
+  },
+  {
+    "id": "PWY-6700",
+    "desc": "queuosine biosynthesis I (<i>de novo<\/i>)",
+    "elements": ["b0405", "b0406", "b2794", "b4166"]
+  },
+  {
+    "id": "PWY-6703",
+    "desc": "preQ<sub>0<\/sub> biosynthesis",
+    "elements": ["b0444", "b2153", "b2765", "b2777"]
+  },
+  {
+    "id": "PWY-6708",
+    "desc": "ubiquinol-8 biosynthesis (early decarboxylation)",
+    "elements": ["b0662", "b2232", "b2906", "b2907", "b3833", "b3843", "b4040"]
+  },
+  {
+    "id": "PWY-6823",
+    "desc": "molybdopterin biosynthesis",
+    "elements": ["b0781", "b0783", "b0784", "b0785", "b0826", "b1757"]
+  },
+  {
+    "id": "PWY-6890",
+    "desc": "4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis I",
+    "elements": ["b2103", "b3994"]
+  },
+  {
+    "id": "PWY-6892",
+    "desc": "thiazole component of thiamine diphosphate biosynthesis I",
+    "elements": ["b0420", "b0423", "b2525", "b2530", "b3990", "b3991", "b3992", "b4407"]
+  },
+  {
+    "id": "PWY-6894",
+    "desc": "thiamine diphosphate biosynthesis I (E. coli)",
+    "elements": ["b0417", "b3993"]
+  },
+  {
+    "id": "PWY-6897",
+    "desc": "thiamine diphosphate salvage II",
+    "elements": ["b0417", "b2103", "b2104", "b2418", "b3993"]
+  },
+  {
+    "id": "PWY-6910",
+    "desc": "hydroxymethylpyrimidine salvage",
+    "elements": ["b2103", "b2418"]
+  },
+  {
+    "id": "PWY-6952",
+    "desc": "glycerophosphodiester degradation",
+    "elements": ["b2239", "b2241", "b2242", "b2243", "b3426", "b3449"]
+  },
+  {
+    "id": "PWY-6961",
+    "desc": "L-ascorbate degradation II (bacterial, aerobic)",
+    "elements": ["b3575", "b3580", "b3581", "b3582", "b3583"]
+  },
+  {
+    "id": "PWY-7176",
+    "desc": "UTP and CTP <i>de novo<\/i> biosynthesis",
+    "elements": ["b0171", "b0474", "b2518", "b2780"]
+  },
+  {
+    "id": "PWY-7179",
+    "desc": "purine deoxyribonucleosides degradation I",
+    "elements": ["b1623", "b4384"]
+  },
+  {
+    "id": "PWY-7180",
+    "desc": "2-deoxy-&alpha;-D-ribose 1-phosphate degradation",
+    "elements": ["b0351", "b1241", "b2455", "b4381", "b4383"]
+  },
+  {
+    "id": "PWY-7181",
+    "desc": "pyrimidine deoxyribonucleosides degradation",
+    "elements": ["b0391", "b2143", "b4382"]
+  },
+  {
+    "id": "PWY-7184",
+    "desc": "pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis I",
+    "elements": ["b0474", "b1098", "b2234", "b2235", "b2251", "b2518", "b2582", "b2675", "b2676", "b2781", "b2827", "b3640", "b3781"]
+  },
+  {
+    "id": "PWY-7187",
+    "desc": "pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis II",
+    "elements": ["b0474", "b1098", "b2065", "b2251", "b2518", "b2781", "b2827", "b3640", "b4238"]
+  },
+  {
+    "id": "PWY-7193",
+    "desc": "pyrimidine ribonucleosides salvage I",
+    "elements": ["b2066", "b2143"]
+  },
+  {
+    "id": "PWY-7194",
+    "desc": "pyrimidine nucleobases salvage II",
+    "elements": ["b0337", "b2498"]
+  },
+  {
+    "id": "PWY-7195",
+    "desc": "pyrimidine ribonucleosides salvage III",
+    "elements": ["b0030", "b0337", "b0651", "b2162"]
+  },
+  {
+    "id": "PWY-7196",
+    "desc": "superpathway of pyrimidine ribonucleosides salvage",
+    "elements": ["b0030", "b0171", "b0474", "b0651", "b0910", "b2066", "b2143", "b2162", "b2498", "b2518", "b2780"]
+  },
+  {
+    "id": "PWY-7197",
+    "desc": "pyrimidine deoxyribonucleotide phosphorylation",
+    "elements": ["b0474", "b0910", "b1098", "b2518"]
+  },
+  {
+    "id": "PWY-7205",
+    "desc": "CMP phosphorylation",
+    "elements": ["b0474", "b0910", "b2518"]
+  },
+  {
+    "id": "PWY-7206",
+    "desc": "pyrimidine deoxyribonucleotides dephosphorylation",
+    "elements": ["b1759", "b2251", "b2781", "b3640"]
+  },
+  {
+    "id": "PWY-7208",
+    "desc": "superpathway of pyrimidine nucleobases salvage",
+    "elements": ["b0171", "b0474", "b2498", "b2518", "b2780"]
+  },
+  {
+    "id": "PWY-7211",
+    "desc": "superpathway of pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis",
+    "elements": ["b0032", "b0033", "b0171", "b0474", "b0945", "b1062", "b1098", "b1281", "b2234", "b2235", "b2251", "b2518", "b2582", "b2675", "b2676", "b2780", "b2781", "b2827", "b3640", "b3642", "b3781", "b4244", "b4245"]
+  },
+  {
+    "id": "PWY-7219",
+    "desc": "adenosine ribonucleotides <i>de novo<\/i> biosynthesis",
+    "elements": ["b0474", "b1131", "b4177"]
+  },
+  {
+    "id": "PWY-7220",
+    "desc": "adenosine deoxyribonucleotides <i>de novo<\/i> biosynthesis II",
+    "elements": ["b2234", "b2235", "b2518", "b2582", "b2673", "b2675", "b2676", "b3781", "b4238"]
+  },
+  {
+    "id": "PWY-7221",
+    "desc": "guanosine ribonucleotides <i>de novo<\/i> biosynthesis",
+    "elements": ["b0474", "b2507", "b2508", "b2518", "b3648"]
+  },
+  {
+    "id": "PWY-7222",
+    "desc": "guanosine deoxyribonucleotides <i>de novo<\/i> biosynthesis II",
+    "elements": ["b0474", "b2234", "b2235", "b2518", "b2582", "b2673", "b2675", "b2676", "b3781", "b4238"]
+  },
+  {
+    "id": "PWY-7242",
+    "desc": "D-fructuronate degradation",
+    "elements": ["b1850", "b3526", "b4322", "b4323"]
+  },
+  {
+    "id": "PWY-7247",
+    "desc": "&beta;-D-glucuronide and D-glucuronate degradation",
+    "elements": ["b1617", "b3092"]
+  },
+  {
+    "id": "PWY-7315",
+    "desc": "dTDP-<i>N<\/i>-acetylthomosamine biosynthesis",
+    "elements": ["b2039", "b2041", "b3788", "b3789", "b3790", "b3791"]
+  },
+  {
+    "id": "PWY-7343",
+    "desc": "UDP-&alpha;-D-glucose biosynthesis",
+    "elements": ["b0688", "b1236"]
+  },
+  {
+    "id": "PWY-7446",
+    "desc": "sulfoquinovose degradation I",
+    "elements": ["b3880", "b3881", "b3882", "b3883"]
+  },
+  {
+    "id": "PWY-7544",
+    "desc": "pyruvate to cytochrome <i>bo<\/i> oxidase electron transfer",
+    "elements": ["b0429", "b0430", "b0431", "b0432", "b0871"]
+  },
+  {
+    "id": "PWY-7545",
+    "desc": "pyruvate to cytochrome <i>bd<\/i> oxidase electron transfer",
+    "elements": ["b0733", "b0734", "b0871", "b4515", "b4602"]
+  },
+  {
+    "id": "PWY-7761",
+    "desc": "NAD salvage pathway II (PNC IV cycle)",
+    "elements": ["b0639", "b1740", "b2700"]
+  },
+  {
+    "id": "PWY-7801",
+    "desc": "N-end rule pathway I (prokaryotic)",
+    "elements": ["b0672", "b0885", "b1909", "b3174", "b3798", "b4270", "b4368", "b4369", "b4370"]
+  },
+  {
+    "id": "PWY-7805",
+    "desc": "(aminomethyl)phosphonate degradation",
+    "elements": ["b0383", "b0469", "b4092", "b4093", "b4094", "b4095", "b4098", "b4099", "b4226"]
+  },
+  {
+    "id": "PWY-7870",
+    "desc": "L-cysteine biosynthesis VII (from <i>S<\/i>-sulfo-L-cysteine)",
+    "elements": ["b0849", "b1064", "b2421", "b2673", "b3607", "b3610"]
+  },
+  {
+    "id": "PWY-7884",
+    "desc": "lipoprotein posttranslational modification (Gram-negative bacteria)",
+    "elements": ["b0027", "b0176", "b0657", "b0891", "b1116", "b1117", "b1118", "b1209", "b1766", "b2828"]
+  },
+  {
+    "id": "PWY-7892",
+    "desc": "tRNA-uridine<sup>34<\/sup> modifications (<i>E. coli<\/i>)",
+    "elements": ["b0503", "b0969", "b1133", "b2324", "b2530", "b3343", "b3344", "b3345", "b3470", "b3706", "b3741"]
+  },
+  {
+    "id": "PWY-7971",
+    "desc": "adenosylcobinamide-GDP salvage from cobinamide I",
+    "elements": ["b1270", "b1993"]
+  },
+  {
+    "id": "PWY-7980",
+    "desc": "ATP biosynthesis",
+    "elements": ["b3731", "b3732", "b3733", "b3734", "b3735", "b3736", "b3737", "b3738"]
+  },
+  {
+    "id": "PWY-8072",
+    "desc": "alanine racemization",
+    "elements": ["b1190", "b1622", "b3008", "b4053"]
+  },
+  {
+    "id": "PWY-8147",
+    "desc": "cytochrome <i>c<\/i> biogenesis (system I type)",
+    "elements": ["b0407", "b0408", "b0409", "b0996", "b1873", "b2194", "b2195", "b2196", "b2197", "b2198", "b2199", "b2200", "b2201", "b2202", "b2582", "b3175", "b3300", "b3518", "b3705", "b3781", "b3860", "b3981", "b4070", "b4071", "b4136"]
+  },
+  {
+    "id": "PWY-8164",
+    "desc": "<i>bis<\/i>(guanylyl molybdopterin) cofactor sulfurylation",
+    "elements": ["b2530", "b3895"]
+  },
+  {
+    "id": "PWY-8171",
+    "desc": "molybdenum cofactor biosynthesis",
+    "elements": ["b0009", "b0763", "b0764", "b0765", "b0827", "b2422", "b2423", "b2424", "b2425", "b3917"]
+  },
+  {
+    "id": "PWY-8227",
+    "desc": "superpathway of enterobacterial common antigen biosynthesis",
+    "elements": ["b2039", "b3784", "b3787", "b3788", "b3789", "b3790", "b3791", "b3792", "b3793", "b3794", "b4404"]
+  },
+  {
+    "id": "PWY-8243",
+    "desc": "colanic acid (<i>Escherichia coli<\/i> K12) biosynthesis",
+    "elements": ["b2044", "b2045", "b2046", "b2047", "b2050", "b2054", "b2055", "b2056", "b2057", "b2058", "b2059"]
+  },
+  {
+    "id": "PWY-8291",
+    "desc": "L-aspartate degradation II (aerobic)",
+    "elements": ["b3870", "b4138", "b4139"]
+  },
+  {
+    "id": "PWY-8294",
+    "desc": "L-aspartate degradation III (anaerobic)",
+    "elements": ["b3870", "b4123", "b4138", "b4139"]
+  },
+  {
+    "id": "PWY0-1021",
+    "desc": "L-alanine biosynthesis III",
+    "elements": ["b2530", "b4407"]
+  },
+  {
+    "id": "PWY0-1061",
+    "desc": "superpathway of L-alanine biosynthesis",
+    "elements": ["b2290", "b2379", "b2530", "b3572", "b3770", "b4407"]
+  },
+  {
+    "id": "PWY0-1182",
+    "desc": "trehalose degradation II (cytosolic)",
+    "elements": ["b2388", "b3519"]
+  },
+  {
+    "id": "PWY0-1221",
+    "desc": "putrescine degradation II",
+    "elements": ["b1297", "b1298", "b1300", "b1301"]
+  },
+  {
+    "id": "PWY0-1241",
+    "desc": "ADP-L-<i>glycero<\/i>-&beta;-D-<i>manno<\/i>-heptose biosynthesis",
+    "elements": ["b0200", "b0222", "b3052", "b3619"]
+  },
+  {
+    "id": "PWY0-1261",
+    "desc": "peptidoglycan recycling I",
+    "elements": ["b0110", "b0211", "b0433", "b0677", "b0867", "b1107", "b1192", "b1193", "b1640", "b2428", "b2558", "b2701", "b2813", "b2963", "b3176", "b3189", "b3730", "b3972", "b4233", "b4392"]
+  },
+  {
+    "id": "PWY0-1264",
+    "desc": "malonyl-CoA biosynthesis via biotin-carboxyl carrier protein",
+    "elements": ["b0185", "b2316", "b3256", "b3973"]
+  },
+  {
+    "id": "PWY0-1275",
+    "desc": "lipoate biosynthesis and incorporation II",
+    "elements": ["b0628", "b2525", "b4386"]
+  },
+  {
+    "id": "PWY0-1277",
+    "desc": "3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation",
+    "elements": ["b0347", "b0348", "b0349", "b0350", "b0351", "b0352", "b2455", "b2538", "b2539", "b2540", "b2541", "b2542"]
+  },
+  {
+    "id": "PWY0-1280",
+    "desc": "ethylene glycol degradation",
+    "elements": ["b1415", "b2799"]
+  },
+  {
+    "id": "PWY0-1295",
+    "desc": "pyrimidine ribonucleosides degradation",
+    "elements": ["b0391", "b2143", "b3831", "b4383"]
+  },
+  {
+    "id": "PWY0-1296",
+    "desc": "purine ribonucleosides degradation",
+    "elements": ["b0391", "b1623", "b2407", "b2593", "b4383", "b4384"]
+  },
+  {
+    "id": "PWY0-1297",
+    "desc": "superpathway of purine deoxyribonucleosides degradation",
+    "elements": ["b0351", "b1241", "b1623", "b2455", "b4381", "b4383", "b4384"]
+  },
+  {
+    "id": "PWY0-1298",
+    "desc": "superpathway of pyrimidine deoxyribonucleosides degradation",
+    "elements": ["b0351", "b0391", "b1241", "b2143", "b2455", "b4381", "b4382", "b4383"]
+  },
+  {
+    "id": "PWY0-1300",
+    "desc": "2-<I>O<\/I>-&alpha;-mannosyl-D-glycerate degradation",
+    "elements": ["b0514", "b0732", "b3124"]
+  },
+  {
+    "id": "PWY0-1303",
+    "desc": "aminopropylcadaverine biosynthesis",
+    "elements": ["b0120", "b0121", "b0186", "b4131"]
+  },
+  {
+    "id": "PWY0-1305",
+    "desc": "L-glutamate degradation IX (via 4-aminobutanoate)",
+    "elements": ["b1493", "b3517"]
+  },
+  {
+    "id": "PWY0-1309",
+    "desc": "chitobiose degradation",
+    "elements": ["b1733", "b1734"]
+  },
+  {
+    "id": "PWY0-1312",
+    "desc": "acetate and ATP formation from acetyl-CoA I",
+    "elements": ["b2296", "b2297", "b2458"]
+  },
+  {
+    "id": "PWY0-1317",
+    "desc": "L-lactaldehyde degradation (aerobic)",
+    "elements": ["b1415", "b3605"]
+  },
+  {
+    "id": "PWY0-1319",
+    "desc": "CDP-diacylglycerol biosynthesis II",
+    "elements": ["b0175", "b1094", "b3018", "b3608", "b4041"]
+  },
+  {
+    "id": "PWY0-1321",
+    "desc": "nitrate reduction III (dissimilatory)",
+    "elements": ["b1224", "b1225", "b1227", "b1465", "b1467", "b1468", "b1474", "b1475", "b1476", "b3892", "b3893", "b3894"]
+  },
+  {
+    "id": "PWY0-1324",
+    "desc": "<i>N<\/i>-acetylneuraminate and <i>N<\/i>-acetylmannosamine degradation I",
+    "elements": ["b3221", "b3222", "b3223", "b3225", "b4310"]
+  },
+  {
+    "id": "PWY0-1325",
+    "desc": "superpathway of L-asparagine biosynthesis",
+    "elements": ["b0674", "b3744"]
+  },
+  {
+    "id": "PWY0-1329",
+    "desc": "succinate to cytochrome <i>bo<\/i> oxidase electron transfer",
+    "elements": ["b0429", "b0430", "b0431", "b0432", "b0721", "b0722", "b0723", "b0724"]
+  },
+  {
+    "id": "PWY0-1334",
+    "desc": "NADH to cytochrome <i>bd<\/i> oxidase electron transfer I",
+    "elements": ["b0733", "b0734", "b2276", "b2277", "b2278", "b2279", "b2280", "b2281", "b2282", "b2283", "b2284", "b2285", "b2286", "b2287", "b2288", "b4515", "b4602"]
+  },
+  {
+    "id": "PWY0-1335",
+    "desc": "NADH to cytochrome <i>bo<\/i> oxidase electron transfer I",
+    "elements": ["b0429", "b0430", "b0431", "b0432", "b2276", "b2277", "b2278", "b2279", "b2280", "b2281", "b2282", "b2283", "b2284", "b2285", "b2286", "b2287", "b2288"]
+  },
+  {
+    "id": "PWY0-1336",
+    "desc": "NADH to fumarate electron transfer",
+    "elements": ["b2276", "b2277", "b2278", "b2279", "b2280", "b2281", "b2282", "b2283", "b2284", "b2285", "b2286", "b2287", "b2288", "b4151", "b4152", "b4153", "b4154"]
+  },
+  {
+    "id": "PWY0-1337",
+    "desc": "oleate &beta;-oxidation",
+    "elements": ["b0221", "b0443", "b0452", "b1805", "b2224", "b2341", "b2342", "b3845", "b3846"]
+  },
+  {
+    "id": "PWY0-1338",
+    "desc": "polymyxin resistance",
+    "elements": ["b2253", "b2254", "b2255", "b2256", "b2257"]
+  },
+  {
+    "id": "PWY0-1347",
+    "desc": "NADH to trimethylamine <i>N<\/i>-oxide electron transfer",
+    "elements": ["b0996", "b0997", "b2276", "b2277", "b2278", "b2279", "b2280", "b2281", "b2282", "b2283", "b2284", "b2285", "b2286", "b2287", "b2288"]
+  },
+  {
+    "id": "PWY0-1348",
+    "desc": "NADH to dimethyl sulfoxide electron transfer",
+    "elements": ["b0894", "b0895", "b0896", "b2276", "b2277", "b2278", "b2279", "b2280", "b2281", "b2282", "b2283", "b2284", "b2285", "b2286", "b2287", "b2288"]
+  },
+  {
+    "id": "PWY0-1352",
+    "desc": "nitrate reduction VIII (dissimilatory)",
+    "elements": ["b1224", "b1225", "b1227", "b1465", "b1467", "b1468", "b2276", "b2277", "b2278", "b2279", "b2280", "b2281", "b2282", "b2283", "b2284", "b2285", "b2286", "b2287", "b2288"]
+  },
+  {
+    "id": "PWY0-1353",
+    "desc": "succinate to cytochrome <i>bd<\/i> oxidase electron transfer",
+    "elements": ["b0721", "b0722", "b0723", "b0724", "b0733", "b0734", "b4515", "b4602"]
+  },
+  {
+    "id": "PWY0-1355",
+    "desc": "formate to trimethylamine <i>N<\/i>-oxide electron transfer",
+    "elements": ["b0996", "b0997", "b1474", "b1475", "b1476", "b3892", "b3893", "b3894"]
+  },
+  {
+    "id": "PWY0-1356",
+    "desc": "formate to dimethyl sulfoxide electron transfer",
+    "elements": ["b0894", "b0895", "b0896", "b1474", "b1475", "b1476", "b3892", "b3893", "b3894"]
+  },
+  {
+    "id": "PWY0-1415",
+    "desc": "superpathway of heme <i>b<\/i> biosynthesis from uroporphyrinogen-III",
+    "elements": ["b0475", "b2436", "b3850", "b3867", "b3997"]
+  },
+  {
+    "id": "PWY0-1433",
+    "desc": "tetrahydromonapterin biosynthesis",
+    "elements": ["b1606", "b2153", "b2303"]
+  },
+  {
+    "id": "PWY0-1458",
+    "desc": "PhoQP Two-Component Signal Transduction System, magnesium-dependent",
+    "elements": ["b1129", "b1130"]
+  },
+  {
+    "id": "PWY0-1468",
+    "desc": "DcuSR Two-Component Signal Transduction System, C<sub>4<\/sub>-dicarboxylate-dependent",
+    "elements": ["b4124", "b4125"]
+  },
+  {
+    "id": "PWY0-1470",
+    "desc": "QseBC Two-Component Signal Transduction System, quorum sensing related",
+    "elements": ["b3025", "b3026"]
+  },
+  {
+    "id": "PWY0-1471",
+    "desc": "uracil degradation III",
+    "elements": ["b1008", "b1009", "b1010", "b1011", "b1012", "b1539"]
+  },
+  {
+    "id": "PWY0-1474",
+    "desc": "AtoSC Two-Component Signal Transduction System",
+    "elements": ["b2219", "b2220"]
+  },
+  {
+    "id": "PWY0-1477",
+    "desc": "ethanolamine utilization",
+    "elements": ["b0351", "b1241", "b1478", "b1849", "b2296", "b2297", "b2440", "b2441", "b2455", "b2458"]
+  },
+  {
+    "id": "PWY0-1479",
+    "desc": "tRNA processing",
+    "elements": ["b1084", "b1286", "b1652", "b1804", "b2268", "b3123", "b3164", "b3643", "b3704"]
+  },
+  {
+    "id": "PWY0-1481",
+    "desc": "BaeSR Two-Component Signal Transduction System",
+    "elements": ["b2078", "b2079"]
+  },
+  {
+    "id": "PWY0-1482",
+    "desc": "BasSR Two-Component Signal Transduction System",
+    "elements": ["b4112", "b4113"]
+  },
+  {
+    "id": "PWY0-1483",
+    "desc": "PhoRB Two-Component Signal Transduction System, phosphate-dependent",
+    "elements": ["b0399", "b0400"]
+  },
+  {
+    "id": "PWY0-1485",
+    "desc": "CpxAR Two-Component Signal Transduction System",
+    "elements": ["b3911", "b3912"]
+  },
+  {
+    "id": "PWY0-1487",
+    "desc": "CreCB Two-Component Signal Transduction System",
+    "elements": ["b4398", "b4399"]
+  },
+  {
+    "id": "PWY0-1490",
+    "desc": "EvgSA Two-Component Signal Transduction System",
+    "elements": ["b2369", "b2370"]
+  },
+  {
+    "id": "PWY0-1492",
+    "desc": "UhpBA Two Component Signal Transduction System",
+    "elements": ["b3668", "b3669"]
+  },
+  {
+    "id": "PWY0-1493",
+    "desc": "Rcs Signal Transduction System",
+    "elements": ["b2216", "b2217", "b2218"]
+  },
+  {
+    "id": "PWY0-1495",
+    "desc": "KdpDE Two-Component Signal Transduction System, potassium-dependent",
+    "elements": ["b0694", "b0695"]
+  },
+  {
+    "id": "PWY0-1497",
+    "desc": "RstBA Two-Component Signal Transduction System",
+    "elements": ["b1608", "b1609"]
+  },
+  {
+    "id": "PWY0-1498",
+    "desc": "ZraSR Two-Component Signal Transduction System",
+    "elements": ["b4003", "b4004"]
+  },
+  {
+    "id": "PWY0-1499",
+    "desc": "DpiBA Two-Component Signal Transduction System",
+    "elements": ["b0619", "b0620"]
+  },
+  {
+    "id": "PWY0-1500",
+    "desc": "EnvZ/OmpR Two-Component Signal Transduction System",
+    "elements": ["b3404", "b3405"]
+  },
+  {
+    "id": "PWY0-1501",
+    "desc": "BarA UvrY Two-Component Signal Transduction System",
+    "elements": ["b1914", "b2786"]
+  },
+  {
+    "id": "PWY0-1503",
+    "desc": "GlrKR Two-Component Signal Transduction System",
+    "elements": ["b2554", "b2556"]
+  },
+  {
+    "id": "PWY0-1505",
+    "desc": "ArcAB Two-Component Signal Transduction System, quinone dependent",
+    "elements": ["b3210", "b4401"]
+  },
+  {
+    "id": "PWY0-1506",
+    "desc": "TorTSR Signal Transduction System, TMAO dependent",
+    "elements": ["b0993", "b0995"]
+  },
+  {
+    "id": "PWY0-1507",
+    "desc": "biotin biosynthesis from 8-amino-7-oxononanoate I",
+    "elements": ["b0774", "b0775", "b0778", "b1593", "b2525", "b4407"]
+  },
+  {
+    "id": "PWY0-1509",
+    "desc": "NtrBC Two-Component Regulatory System",
+    "elements": ["b3868", "b3869"]
+  },
+  {
+    "id": "PWY0-1512",
+    "desc": "CusSR Two-Component Signal Transduction System",
+    "elements": ["b0570", "b0571"]
+  },
+  {
+    "id": "PWY0-1514",
+    "desc": "NarQ Two-Component Signal Transduction System, nitrate dependent",
+    "elements": ["b1221", "b2193", "b2469"]
+  },
+  {
+    "id": "PWY0-1515",
+    "desc": "NarX Two-Component Signal Transduction System, nitrate dependent",
+    "elements": ["b1221", "b1222", "b2193"]
+  },
+  {
+    "id": "PWY0-1517",
+    "desc": "sedoheptulose bisphosphate bypass",
+    "elements": ["b2925", "b3916"]
+  },
+  {
+    "id": "PWY0-1518",
+    "desc": "Chemotactic Two-Component Signal Transduction",
+    "elements": ["b1882", "b1883", "b1888"]
+  },
+  {
+    "id": "PWY0-1519",
+    "desc": "Aerotactic Two-Component Signal Transduction System",
+    "elements": ["b1882", "b1888"]
+  },
+  {
+    "id": "PWY0-1533",
+    "desc": "methylphosphonate degradation I",
+    "elements": ["b4092", "b4094", "b4095", "b4098", "b4099"]
+  },
+  {
+    "id": "PWY0-1535",
+    "desc": "D-serine degradation",
+    "elements": ["b2366", "b2551", "b4243"]
+  },
+  {
+    "id": "PWY0-1544",
+    "desc": "proline to cytochrome <i>bo<\/i> oxidase electron transfer",
+    "elements": ["b0429", "b0430", "b0431", "b0432", "b1014"]
+  },
+  {
+    "id": "PWY0-1545",
+    "desc": "cardiolipin biosynthesis III",
+    "elements": ["b0418", "b1046", "b1278", "b1912", "b2560"]
+  },
+  {
+    "id": "PWY0-1546",
+    "desc": "muropeptide degradation",
+    "elements": ["b0237", "b1192", "b1325", "b1326"]
+  },
+  {
+    "id": "PWY0-1550",
+    "desc": "PyrSR Two-Component Signal Transduction System",
+    "elements": ["b2380", "b2381"]
+  },
+  {
+    "id": "PWY0-1554",
+    "desc": "5-(methoxycarbonylmethoxy)uridine biosynthesis",
+    "elements": ["b0921", "b1055", "b1870", "b1871", "b3606"]
+  },
+  {
+    "id": "PWY0-1559",
+    "desc": "BtsSR Two-Component Signal Transduction System",
+    "elements": ["b2125", "b2126"]
+  },
+  {
+    "id": "PWY0-1561",
+    "desc": "glycerol-3-phosphate to cytochrome <i>bo<\/i> oxidase electron transfer",
+    "elements": ["b0429", "b0430", "b0431", "b0432", "b3426"]
+  },
+  {
+    "id": "PWY0-1565",
+    "desc": "D-lactate to cytochrome <i>bo<\/i> oxidase electron transfer",
+    "elements": ["b0429", "b0430", "b0431", "b0432", "b2133"]
+  },
+  {
+    "id": "PWY0-1567",
+    "desc": "NADH to cytochrome <i>bo<\/i> oxidase electron transfer II",
+    "elements": ["b0429", "b0430", "b0431", "b0432", "b1109"]
+  },
+  {
+    "id": "PWY0-1568",
+    "desc": "NADH to cytochrome <i>bd<\/i> oxidase electron transfer II",
+    "elements": ["b0733", "b0734", "b1109", "b4515", "b4602"]
+  },
+  {
+    "id": "PWY0-1569",
+    "desc": "autoinducer AI-2 degradation",
+    "elements": ["b1511", "b1517", "b1518"]
+  },
+  {
+    "id": "PWY0-1573",
+    "desc": "nitrate reduction VIIIb (dissimilatory)",
+    "elements": ["b1109", "b1224", "b1225", "b1227"]
+  },
+  {
+    "id": "PWY0-1576",
+    "desc": "hydrogen to fumarate electron transfer",
+    "elements": ["b2994", "b2995", "b2996", "b2997", "b4151", "b4152", "b4153", "b4154"]
+  },
+  {
+    "id": "PWY0-1577",
+    "desc": "hydrogen to dimethyl sulfoxide electron transfer",
+    "elements": ["b0894", "b0895", "b0896", "b2994", "b2995", "b2996", "b2997"]
+  },
+  {
+    "id": "PWY0-1578",
+    "desc": "hydrogen to trimethylamine N-oxide electron transfer",
+    "elements": ["b0996", "b0997", "b2994", "b2995", "b2996", "b2997"]
+  },
+  {
+    "id": "PWY0-1581",
+    "desc": "nitrate reduction IX (dissimilatory)",
+    "elements": ["b1224", "b1225", "b1227", "b1465", "b1467", "b1468", "b2241", "b2242", "b2243"]
+  },
+  {
+    "id": "PWY0-1582",
+    "desc": "glycerol-3-phosphate to fumarate electron transfer",
+    "elements": ["b2241", "b2242", "b2243", "b4151", "b4152", "b4153", "b4154"]
+  },
+  {
+    "id": "PWY0-1584",
+    "desc": "<i>sn<\/i>-glycerol 3-phosphate anaerobic respiration",
+    "elements": ["b2203", "b2204", "b2205", "b2206", "b3426"]
+  },
+  {
+    "id": "PWY0-1585",
+    "desc": "formate to nitrite electron transfer",
+    "elements": ["b1474", "b1475", "b1476", "b3892", "b3893", "b3894", "b4070", "b4072", "b4073"]
+  },
+  {
+    "id": "PWY0-1586",
+    "desc": "peptidoglycan maturation (<i>meso<\/i>-diaminopimelate containing)",
+    "elements": ["b0084", "b0089", "b0149", "b0376", "b0632", "b0634", "b0635", "b0839", "b0925", "b1655", "b1678", "b2010", "b2175", "b2430", "b2519", "b3182", "b3208", "b3396"]
+  },
+  {
+    "id": "PWY0-1587",
+    "desc": "N<sup>6<\/sup>-L-threonylcarbamoyladenosine<sup>37<\/sup>-modified tRNA biosynthesis",
+    "elements": ["b1807", "b2812", "b3064", "b3282", "b4168"]
+  },
+  {
+    "id": "PWY0-1588",
+    "desc": "HprSR Two-Component Signal Transduction System",
+    "elements": ["b1968", "b1969"]
+  },
+  {
+    "id": "PWY0-1590",
+    "desc": "NADH to hydrogen peroxide electron transfer",
+    "elements": ["b2276", "b2277", "b2278", "b2279", "b2280", "b2281", "b2282", "b2283", "b2284", "b2285", "b2286", "b2287", "b2288", "b3518"]
+  },
+  {
+    "id": "PWY0-1591",
+    "desc": "glycerol-3-phosphate to hydrogen peroxide electron transport",
+    "elements": ["b2241", "b2242", "b2243", "b3518"]
+  },
+  {
+    "id": "PWY0-1597",
+    "desc": "prenylated FMNH<sub>2<\/sub> biosynthesis",
+    "elements": ["b1134", "b2104", "b2311", "b3034"]
+  },
+  {
+    "id": "PWY0-1599",
+    "desc": "periplasmic disulfide bond formation",
+    "elements": ["b1185", "b3860"]
+  },
+  {
+    "id": "PWY0-1600",
+    "desc": "periplasmic disulfide bond reduction",
+    "elements": ["b3781", "b4136"]
+  },
+  {
+    "id": "PWY0-1601",
+    "desc": "cadaverine biosynthesis",
+    "elements": ["b0186", "b4131"]
+  },
+  {
+    "id": "PWY0-1602",
+    "desc": "D-gulosides conversion to D-glucosides",
+    "elements": ["b1313", "b1314", "b1315"]
+  },
+  {
+    "id": "PWY0-162",
+    "desc": "superpathway of pyrimidine ribonucleotides <i>de novo<\/i> biosynthesis",
+    "elements": ["b0032", "b0033", "b0171", "b0474", "b0945", "b1062", "b1281", "b2518", "b2780", "b3642", "b4244", "b4245"]
+  },
+  {
+    "id": "PWY0-163",
+    "desc": "salvage pathways of pyrimidine ribonucleotides",
+    "elements": ["b0337", "b0391", "b0474", "b0910", "b2066", "b2143", "b2498", "b2518", "b3831"]
+  },
+  {
+    "id": "PWY0-166",
+    "desc": "superpathway of pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis (<i>E. coli<\/i>)",
+    "elements": ["b0474", "b1098", "b2065", "b2234", "b2235", "b2251", "b2518", "b2582", "b2673", "b2675", "b2676", "b2781", "b2827", "b3640", "b3781", "b4238"]
+  },
+  {
+    "id": "PWY0-181",
+    "desc": "salvage pathways of pyrimidine deoxyribonucleotides",
+    "elements": ["b0391", "b1238", "b2143", "b4382"]
+  },
+  {
+    "id": "PWY0-301",
+    "desc": "L-ascorbate degradation I (bacterial, anaerobic)",
+    "elements": ["b4192", "b4193", "b4194", "b4195", "b4196", "b4197", "b4198"]
+  },
+  {
+    "id": "PWY0-321",
+    "desc": "phenylacetate degradation I (aerobic)",
+    "elements": ["b1387", "b1388", "b1389", "b1390", "b1392", "b1393", "b1394", "b1395", "b1397", "b1398"]
+  },
+  {
+    "id": "PWY0-381",
+    "desc": "glycerol and glycerophosphodiester degradation",
+    "elements": ["b2239", "b2241", "b2242", "b2243", "b3426", "b3449", "b3926"]
+  },
+  {
+    "id": "PWY0-41",
+    "desc": "allantoin degradation IV (anaerobic)",
+    "elements": ["b0032", "b0033", "b0511", "b0512", "b0515", "b0516", "b0517", "b0518", "b0521"]
+  },
+  {
+    "id": "PWY0-42",
+    "desc": "2-methylcitrate cycle I",
+    "elements": ["b0118", "b0331", "b0333", "b0334", "b0335", "b4069"]
+  },
+  {
+    "id": "PWY0-43",
+    "desc": "conversion of succinate to propanoate",
+    "elements": ["b2917", "b2919", "b2920"]
+  },
+  {
+    "id": "PWY0-44",
+    "desc": "D-allose degradation",
+    "elements": ["b4084", "b4085", "b4090"]
+  },
+  {
+    "id": "PWY0-461",
+    "desc": "L-lysine degradation I",
+    "elements": ["b0186", "b1302", "b1444", "b1525", "b2659", "b2660", "b2661", "b2662", "b3073", "b4131"]
+  },
+  {
+    "id": "PWY0-501",
+    "desc": "lipoate biosynthesis and incorporation I",
+    "elements": ["b0628", "b0630", "b1094", "b2525"]
+  },
+  {
+    "id": "PWY0-521",
+    "desc": "fructoselysine and psicoselysine degradation",
+    "elements": ["b3371", "b3373", "b3374"]
+  },
+  {
+    "id": "PWY0-781",
+    "desc": "aspartate superpathway",
+    "elements": ["b0003", "b0004", "b0031", "b0109", "b0166", "b0639", "b0750", "b0907", "b0928", "b1622", "b1740", "b2472", "b2478", "b2574", "b2838", "b2942", "b3008", "b3359", "b3433", "b3809", "b3829", "b3939", "b4013", "b4019", "b4024"]
+  },
+  {
+    "id": "PWY0-823",
+    "desc": "L-arginine degradation III (arginine decarboxylase/agmatinase pathway)",
+    "elements": ["b2937", "b2938", "b4117"]
+  },
+  {
+    "id": "PWY0-845",
+    "desc": "superpathway of pyridoxal 5'-phosphate biosynthesis and salvage",
+    "elements": ["b0052", "b0420", "b0907", "b1406", "b1636", "b1638", "b2320", "b2418", "b2564", "b2927"]
+  },
+  {
+    "id": "PWY0-862",
+    "desc": "(5Z)-dodecenoate biosynthesis I",
+    "elements": ["b0180", "b0954", "b1093", "b1094", "b1288", "b2323"]
+  },
+  {
+    "id": "PWY0-881",
+    "desc": "superpathway of fatty acid biosynthesis I (E. coli)",
+    "elements": ["b0180", "b0185", "b0954", "b1091", "b1092", "b1093", "b1094", "b1095", "b1288", "b2316", "b2323"]
+  },
+  {
+    "id": "PWY0-901",
+    "desc": "L-selenocysteine biosynthesis I (bacteria)",
+    "elements": ["b0893", "b1764", "b3591", "b3658"]
+  },
+  {
+    "id": "PYRIDNUCSAL-PWY",
+    "desc": "NAD salvage pathway I (PNC VI cycle)",
+    "elements": ["b0639", "b0931", "b1740", "b1768"]
+  },
+  {
+    "id": "PYRIDNUCSYN-PWY",
+    "desc": "NAD <i>de novo<\/i> biosynthesis I",
+    "elements": ["b0109", "b0639", "b0750", "b1740", "b2574"]
+  },
+  {
+    "id": "PYRIDOXSYN-PWY",
+    "desc": "pyridoxal 5'-phosphate biosynthesis I",
+    "elements": ["b0052", "b0420", "b0907", "b1638", "b2320", "b2564", "b2927"]
+  },
+  {
+    "id": "PYRUVDEHYD-PWY",
+    "desc": "pyruvate decarboxylation to acetyl CoA I",
+    "elements": ["b0114", "b0115", "b0116"]
+  },
+  {
+    "id": "RHAMCAT-PWY",
+    "desc": "L-rhamnose degradation I",
+    "elements": ["b3901", "b3902", "b3903", "b3904"]
+  },
+  {
+    "id": "RIBOKIN-PWY",
+    "desc": "ribose phosphorylation",
+    "elements": ["b2804", "b3748", "b3752"]
+  },
+  {
+    "id": "RIBOSYN2-PWY",
+    "desc": "flavin biosynthesis I (bacteria and plants)",
+    "elements": ["b0025", "b0414", "b0415", "b0844", "b1277", "b1662", "b3041", "b3812"]
+  },
+  {
+    "id": "SALVADEHYPOX-PWY",
+    "desc": "adenosine nucleotides degradation II",
+    "elements": ["b0383", "b0391", "b0480", "b0675", "b1623", "b2407", "b2593", "b2744", "b2866", "b2867", "b2868", "b4055", "b4384"]
+  },
+  {
+    "id": "SALVPURINE2-PWY",
+    "desc": "xanthine and xanthosine salvage",
+    "elements": ["b0238", "b0391", "b2407", "b4384"]
+  },
+  {
+    "id": "SERDEG-PWY",
+    "desc": "L-serine degradation",
+    "elements": ["b1814", "b2797", "b3111", "b3117", "b4243"]
+  },
+  {
+    "id": "SO4ASSIM-PWY",
+    "desc": "assimilatory sulfate reduction I",
+    "elements": ["b2582", "b2750", "b2751", "b2752", "b2762", "b2763", "b2764", "b3781"]
+  },
+  {
+    "id": "TCA",
+    "desc": "TCA cycle I (prokaryotic)",
+    "elements": ["b0116", "b0118", "b0720", "b0721", "b0722", "b0723", "b0724", "b0726", "b0727", "b0728", "b0729", "b1136", "b1276", "b1479", "b1611", "b1612", "b1675", "b2210", "b2929", "b3236", "b4122"]
+  },
+  {
+    "id": "TCA-GLYOX-BYPASS",
+    "desc": "superpathway of glyoxylate bypass and TCA",
+    "elements": ["b0116", "b0118", "b0720", "b0721", "b0722", "b0723", "b0724", "b0726", "b0727", "b0728", "b0729", "b1136", "b1276", "b1479", "b1611", "b1612", "b1675", "b2210", "b2929", "b3236", "b4014", "b4015", "b4122"]
+  },
+  {
+    "id": "THIOREDOX-PWY",
+    "desc": "thioredoxin pathway",
+    "elements": ["b0888", "b2582", "b3781"]
+  },
+  {
+    "id": "THISYN-PWY",
+    "desc": "superpathway of thiamine diphosphate biosynthesis I",
+    "elements": ["b0417", "b0420", "b0423", "b2103", "b2525", "b2530", "b3990", "b3991", "b3992", "b3993", "b3994", "b4407"]
+  },
+  {
+    "id": "THRDLCTCAT-PWY",
+    "desc": "L-threonine degradation III (to methylglyoxal)",
+    "elements": ["b1386", "b3589", "b3616"]
+  },
+  {
+    "id": "THREOCAT-PWY",
+    "desc": "superpathway of L-threonine metabolism",
+    "elements": ["b0077", "b0078", "b0351", "b0870", "b0903", "b1241", "b1386", "b2296", "b2297", "b2455", "b2579", "b3114", "b3115", "b3589", "b3616", "b3617", "b3769", "b3770", "b3771", "b3774", "b4243"]
+  },
+  {
+    "id": "THREONINE-DEG2-PWY",
+    "desc": "L-threonine degradation II",
+    "elements": ["b3589", "b3616", "b3617"]
+  },
+  {
+    "id": "THRESYN-PWY",
+    "desc": "superpathway of L-threonine biosynthesis",
+    "elements": ["b0002", "b0003", "b0004", "b0928", "b3433", "b3940", "b4024"]
+  },
+  {
+    "id": "TREDEGLOW-PWY",
+    "desc": "trehalose degradation I (low osmolarity)",
+    "elements": ["b2388", "b4239"]
+  },
+  {
+    "id": "TRESYN-PWY",
+    "desc": "trehalose biosynthesis I",
+    "elements": ["b0383", "b1896", "b1897"]
+  },
+  {
+    "id": "TRNA-CHARGING-PWY",
+    "desc": "tRNA charging",
+    "elements": ["b0026", "b0194", "b0202", "b0203", "b0206", "b0216", "b0244", "b0526", "b0536", "b0642", "b0664", "b0665", "b0666", "b0668", "b0670", "b0672", "b0673", "b0680", "b0743", "b0744", "b0745", "b0746", "b0747", "b0748", "b0749", "b0883", "b0893", "b0930", "b0971", "b1032", "b1230", "b1231", "b1637", "b1665", "b1666", "b1713", "b1714", "b1719", "b1866", "b1876", "b1909", "b1910", "b1911", "b1975", "b1977", "b1984", "b1986", "b1989", "b2114", "b2189", "b2348", "b2396", "b2397", "b2400", "b2401", "b2402", "b2403", "b2404", "b2514", "b2590", "b2652", "b2691", "b2692", "b2693", "b2694", "b2695", "b2697", "b2814", "b2815", "b2816", "b2864", "b2890", "b2967", "b3069", "b3171", "b3174", "b3273", "b3276", "b3277", "b3384", "b3545", "b3559", "b3560", "b3658", "b3757", "b3760", "b3761", "b3796", "b3797", "b3798", "b3799", "b3852", "b3853", "b3969", "b3976", "b3977", "b3978", "b3979", "b4008", "b4129", "b4134", "b4163", "b4164", "b4165", "b4258", "b4270", "b4368", "b4369", "b4370"]
+  },
+  {
+    "id": "TRPSYN-PWY",
+    "desc": "L-tryptophan biosynthesis",
+    "elements": ["b1260", "b1261", "b1262", "b1263", "b1264"]
+  },
+  {
+    "id": "TRYPDEG-PWY",
+    "desc": "L-tryptophan degradation II (via pyruvate)",
+    "elements": ["b3708", "b4243"]
+  },
+  {
+    "id": "TYRSYN",
+    "desc": "L-tyrosine biosynthesis I",
+    "elements": ["b0928", "b2599", "b2600", "b4054"]
+  },
+  {
+    "id": "UBISYN-PWY",
+    "desc": "superpathway of ubiquinol-8 biosynthesis (early decarboxylation)",
+    "elements": ["b0421", "b0662", "b2232", "b2906", "b2907", "b3187", "b3833", "b3843", "b4039", "b4040"]
+  },
+  {
+    "id": "UDPNAGSYN-PWY",
+    "desc": "UDP-<i>N<\/i>-acetyl-D-glucosamine biosynthesis I",
+    "elements": ["b2843", "b3176", "b3729", "b3730", "b4025"]
+  },
+  {
+    "id": "VALSYN-PWY",
+    "desc": "L-valine biosynthesis",
+    "elements": ["b0077", "b0078", "b3670", "b3671", "b3769", "b3770", "b3771", "b3774"]
+  },
+  {
+    "id": "XYLCAT-PWY",
+    "desc": "D-xylose degradation I",
+    "elements": ["b3564", "b3565"]
+  }
+]

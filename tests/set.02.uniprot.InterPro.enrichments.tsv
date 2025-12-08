@@ -1,0 +1,48 @@
+IPR012338  3.4720899316520128e-12  11  11/16  Beta-lactamase/transpeptidase-like                                b0149, b3182, b2010, b0084, b0376, b0635, b0839, b0632, b2519, b3396, b2134
+IPR005490  3.802889338331692e-08   6   6/6    L,D-transpeptidase catalytic domain                               b0819, b1678, b1113, b0925, b0224, b1990
+IPR038063  3.802889338331692e-08   6   6/6    L,D-transpeptidase catalytic domain-like                          b0819, b1678, b1113, b0925, b0224, b1990
+IPR001460  5.42910640826836e-07    5   5/5    Penicillin-binding protein, transpeptidase                        b0149, b0084, b0635, b2519, b3396
+IPR004101  1.3188534147760977e-06  5   5/6    Mur ligase, C-terminal                                            b4233, b0086, b0088, b0085, b0091
+IPR013221  1.3188534147760977e-06  5   5/6    Mur ligase, central                                               b4233, b0086, b0088, b0085, b0091
+IPR036615  1.3188534147760977e-06  5   5/6    Mur ligase, C-terminal domain superfamily                         b4233, b0086, b0088, b0085, b0091
+IPR036565  2.782897510715649e-06   5   5/7    Mur-like, catalytic domain superfamily                            b4233, b0086, b0088, b0085, b0091
+IPR000713  7.821325178661211e-06   4   4/4    Mur ligase, N-terminal catalytic domain                           b0091, b4233, b0086, b0085
+IPR001264  7.821325178661211e-06   4   4/4    Glycosyl transferase, family 51                                   b0149, b2519, b3208, b3396
+IPR001967  7.821325178661211e-06   4   4/4    Peptidase S11, D-alanyl-D-alanine carboxypeptidase A, N-terminal  b0632, b2010, b2134, b0839
+IPR018044  7.821325178661211e-06   4   4/4    Peptidase S11, D-alanyl-D-alanine carboxypeptidase A              b0632, b2010, b2134, b0839
+IPR036950  7.821325178661211e-06   4   4/4    Penicillin binding protein transglycosylase domain                b0149, b2519, b3208, b3396
+IPR041597  7.821325178661211e-06   4   4/4    L,D-transpeptidase C-terminal domain                              b0819, b1678, b1113, b1990
+IPR050979  7.821325178661211e-06   4   4/4    Bacterial L,D-transpeptidase                                      b0819, b1678, b1113, b1990
+IPR012907  0.00011488836945431228  3   3/3    Peptidase S11, D-Ala-D-Ala carboxypeptidase A, C-terminal         b0632, b2010, b0839
+IPR015956  0.00011488836945431228  3   3/3    Penicillin-binding protein, C-terminal domain superfamily         b0632, b2010, b0839
+IPR037167  0.00011488836945431228  3   3/3    D-Ala-D-Ala carboxypeptidase, C-terminal domain superfamily       b0632, b2010, b0839
+IPR050396  0.00011488836945431228  3   3/3    Glycosyltransferase 51/Transpeptidase                             b0149, b2519, b3396
+IPR007730  0.00026639310530634467  3   3/4    Sporulation-like domain                                           b3388, b3933, b2314
+IPR036680  0.00026639310530634467  3   3/4    Sporulation-like domain superfamily                               b3388, b3933, b2314
+IPR023346  0.0007080453230501991   4   4/13   Lysozyme-like domain superfamily                                  b0149, b3208, b2519, b3396
+IPR036779  0.0013366046910954382   3   3/7    LysM domain superfamily                                           b2742, b1678, b1113
+IPR000291  0.0017593249225848725   2   2/2    D-alanine--D-alanine ligase/VANA/B/C, conserved site              b0092, b0381
+IPR001182  0.0017593249225848725   2   2/2    Probable peptidoglycan glycosyltransferase FtsW/RodA              b0634, b0089
+IPR005311  0.0017593249225848725   2   2/2    Penicillin-binding protein, dimerisation domain                   b0084, b0635
+IPR005905  0.0017593249225848725   2   2/2    D-alanine--D-alanine ligase                                       b0092, b0381
+IPR011095  0.0017593249225848725   2   2/2    D-alanine--D-alanine ligase, C-terminal                           b0092, b0381
+IPR011127  0.0017593249225848725   2   2/2    D-alanine--D-alanine ligase, N-terminal domain                    b0092, b0381
+IPR018365  0.0017593249225848725   2   2/2    Cell cycle, FtsW / RodA / SpoVE, conserved site                   b0634, b0089
+IPR023009  0.0017593249225848725   2   2/2    Tyrosine recombinase XerC/XerD                                    b2894, b3811
+IPR035911  0.0017593249225848725   2   2/2    MurE/MurF, N-terminal                                             b0086, b0085
+IPR036138  0.0017593249225848725   2   2/2    Penicillin-binding protein, dimerisation domain superfamily       b0084, b0635
+IPR050061  0.0017593249225848725   2   2/2    Peptidoglycan biosynthesis MurCDEF                                b4233, b0091
+IPR050515  0.0017593249225848725   2   2/2    Class D beta-lactamase/transpeptidase                             b0084, b0635
+IPR052521  0.0017593249225848725   2   2/2    Bacterial cell division SPOR domain-containing protein            b3933, b2314
+IPR018392  0.0019519063419057795   3   3/8    LysM domain                                                       b2742, b1678, b1113
+IPR004107  0.0038810378692770275   2   2/3    Integrase, SAM-like, N-terminal                                   b2894, b3811
+IPR016047  0.0067649483693653645   2   2/4    M23ase, beta-sheet core domain                                    b2742, b3613
+IPR050570  0.0067649483693653645   2   2/4    Bacterial cell wall metabolism enzyme                             b2742, b3613
+IPR011055  0.019533406397175043    2   2/7    Duplicated hybrid motif                                           b2742, b3613
+IPR050090  0.019533406397175043    2   2/7    Bacterial tyrosine recombinase XerC/XerD complex                  b2894, b3811
+IPR011990  0.03726277662584262     3   3/24   Tetratricopeptide-like helical domain superfamily                 b0742, b3163, b3147
+IPR010998  0.03760118182570377     2   2/10   Integrase/recombinase, N-terminal                                 b2894, b3811
+IPR011761  0.04462391747044453     2   2/11   ATP-grasp fold                                                    b0092, b0381
+IPR016185  0.04462391747044453     2   2/11   Pre-ATP-grasp domain superfamily                                  b0092, b0381
+IPR019734  0.04462391747044453     2   2/11   Tetratricopeptide repeat                                          b0742, b3163
+IPR044068  0.04462391747044453     2   2/11   Core-binding (CB) domain                                          b2894, b3811

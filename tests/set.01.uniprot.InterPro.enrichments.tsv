@@ -1,0 +1,97 @@
+IPR010065  2.8123933058540054e-10  10  10/10   Amino acid ABC transporter, permease protein, 3-TM domain                             b0810, b2307, b0862, b3270, b1918, b0654, b0653, b2308, b0861, b3269
+IPR004841  6.964773320715944e-10   10  10/11   Amino acid permease/ SLC12A domain                                                    b0112, b4208, b1453, b2014, b2156, b2663, b0576, b1296, b0402, b3795
+IPR050367  2.5871517951292562e-08  9   9/12    Amino acid-polyamine-organocation superfamily                                         b4132, b2014, b0692, b1492, b1605, b4141, b1296, b4115, b0486
+IPR004840  4.337902739703715e-08   8   8/9     Amino acid permease, conserved site                                                   b0112, b4208, b1453, b2156, b2663, b0576, b3795, b0402
+IPR018313  1.4074254806286854e-07  7   7/7     Solute-binding protein family 3, conserved site                                       b0811, b2309, b0860, b2310, b0863, b1920, b3268
+IPR043429  1.4074254806286854e-07  7   7/7     ABC transporter membrane protein permease protein ArtM/GltK/GlnP/TcyL/YhdX-like       b0810, b3270, b1918, b0654, b0653, b0861, b3269
+IPR002293  1.9715166060074332e-07  8   8/11    Amino acid/polyamine transporter I                                                    b4132, b0692, b1492, b3370, b1605, b4141, b4115, b0486
+IPR045865  2.866597998701496e-07   9   9/16    ACT-like domain                                                                       b3769, b2599, b3772, b3670, b0199, b0002, b0078, b2913, b4024
+IPR050086  3.425561296945349e-07   7   7/8     Methionine import ATP-binding protein MetN-like                                       b3271, b0652, b2306, b0199, b0809, b1917, b0864
+IPR001638  3.778150631490839e-07   8   8/12    Solute-binding protein family 3/N-terminal domain of MltF                             b0655, b0811, b2309, b0860, b2310, b0863, b1920, b3268
+IPR030679  1.1242640975342718e-06  6   6/6     ABC-type amino acid transport system, ATPase component, HisP-type                     b3271, b0652, b2306, b0809, b1917, b0864
+IPR000515  1.1401541182703582e-06  14  14/52   ABC transporter type 1, transmembrane domain MetI-like                                b0810, b2307, b0862, b3270, b1918, b0654, b2130, b0653, b2128, b2308, b0198, b2678, b0861, b3269
+IPR035906  1.1401541182703582e-06  14  14/52   MetI-like superfamily                                                                 b0810, b2307, b0862, b3270, b1918, b0654, b2130, b0653, b2128, b2308, b0198, b2678, b0861, b3269
+IPR002912  8.178472418203063e-06   7   7/13    ACT domain                                                                            b3769, b2599, b3670, b0002, b0078, b2913, b4024
+IPR001048  2.0171234204568744e-05  6   6/10    Aspartate/glutamate/uridylate kinase                                                  b3940, b2818, b3959, b0002, b0242, b4024
+IPR036393  2.0171234204568744e-05  6   6/10    Acetylglutamate kinase-like superfamily                                               b3940, b2818, b3959, b0002, b0242, b4024
+IPR001320  7.385654550934456e-05   4   4/4     Ionotropic glutamate receptor, C-terminal                                             b0863, b0811, b0860, b1920
+IPR005768  7.385654550934456e-05   4   4/4     Specific amino acids and opine-binding periplasmic protein, ABC transporter           b0863, b2309, b0860, b2310
+IPR018227  8.331883617681785e-05   5   5/8     Amino acid/polyamine transporter 2                                                    b3116, b3161, b1907, b3709, b3110
+IPR001926  0.00014377698123752835  5   5/9     Tryptophan synthase beta chain-like, PALP domain                                      b0004, b3772, b2421, b1261, b2414
+IPR036052  0.00014377698123752835  5   5/9     Tryptophan synthase beta chain-like, PALP domain superfamily                          b0004, b3772, b2421, b1261, b2414
+IPR001341  0.0006170002870273825   3   3/3     Aspartate kinase                                                                      b0002, b3940, b4024
+IPR004754  0.0006170002870273825   3   3/3     Amino acid antiporter                                                                 b0692, b4132, b1605
+IPR006219  0.0006170002870273825   3   3/3     DAHP synthase, class 1                                                                b1704, b0754, b2601
+IPR013059  0.0006170002870273825   3   3/3     Tryptophan/tyrosine transporter                                                       b3709, b3161, b1907
+IPR013061  0.0006170002870273825   3   3/3     Tryptophan/tryrosine permease, conserved site                                         b3709, b3161, b1907
+IPR018042  0.0006170002870273825   3   3/3     Aspartate kinase, conserved site                                                      b0002, b3940, b4024
+IPR054480  0.0006170002870273825   3   3/3     Acetolactate synthase small subunit-like, ACT domain                                  b0078, b2913, b3670
+IPR015422  0.000695885395565852    8   8/35    Pyridoxal phosphate-dependent transferase, small domain                               b3359, b1622, b2021, b0907, b3008, b3939, b4054, b2551
+IPR001991  0.0014059480354555688   3   3/4     Sodium:dicarboxylate symporter                                                        b3089, b4077, b1729
+IPR006218  0.0014059480354555688   3   3/4     DAHP synthetase I/KDSA                                                                b1704, b0754, b2601
+IPR036458  0.0014059480354555688   3   3/4     Sodium:dicarboxylate symporter superfamily                                            b3089, b4077, b1729
+IPR045229  0.0014059480354555688   3   3/4     Thiamine pyrophosphate enzyme                                                         b0077, b3671, b4488
+IPR015421  0.0016160900468900076   8   8/40    Pyridoxal phosphate-dependent transferase, major domain                               b3359, b1622, b2021, b0907, b3008, b3939, b4054, b2551
+IPR015424  0.0016160900468900076   8   8/40    Pyridoxal phosphate-dependent transferase                                             b3359, b1622, b2021, b0907, b3008, b3939, b4054, b2551
+IPR013785  0.002462567245173033    11  11/74   Aldolase-type TIM barrel                                                              b2024, b3212, b1260, b1704, b2478, b0754, b1262, b2601, b2025, b0074, b1693
+IPR017871  0.002462567245173033    11  11/74   ABC transporter-like, conserved site                                                  b0652, b3271, b3454, b2306, b2677, b3455, b0199, b2129, b0809, b1917, b0864
+IPR003439  0.003657455597758729    11  11/78   ABC transporter-like, ATP-binding domain                                              b0652, b3454, b3271, b2306, b2677, b3455, b0199, b2129, b0809, b1917, b0864
+IPR011060  0.004286488454416852    4   4/12    Ribulose-phosphate binding barrel                                                     b1260, b2025, b2024, b1262
+IPR001123  0.004386413644860533    3   3/6     Amino acid exporter protein, LeuE-type                                                b1798, b2578, b2923
+IPR012000  0.004386413644860533    3   3/6     Thiamine pyrophosphate enzyme, central domain                                         b0077, b3671, b4488
+IPR017926  0.004386413644860533    3   3/6     Glutamine amidotransferase                                                            b2023, b0032, b1263
+IPR000277  0.00539302650880074     2   2/2     Cys/Met metabolism, pyridoxal phosphate-dependent enzyme                              b3008, b3939
+IPR000623  0.00539302650880074     2   2/2     Shikimate kinase/Threonine synthase-like 1                                            b3390, b0388
+IPR000709  0.00539302650880074     2   2/2     Leu/Ile/Val-binding protein                                                           b3458, b3460
+IPR001216  0.00539302650880074     2   2/2     Cysteine synthase/cystathionine beta-synthase, pyridoxal-phosphate attachment site    b2414, b2421
+IPR001342  0.00539302650880074     2   2/2     Homoserine dehydrogenase, catalytic                                                   b0002, b3940
+IPR002292  0.00539302650880074     2   2/2     Ornithine/putrescine carbamoyltransferase                                             b0273, b4254
+IPR002701  0.00539302650880074     2   2/2     Chorismate mutase II, prokaryotic-type                                                b2599, b2600
+IPR003726  0.00539302650880074     2   2/2     Homocysteine-binding domain                                                           b0261, b4019
+IPR004789  0.00539302650880074     2   2/2     Acetolactate synthase, small subunit                                                  b0078, b3670
+IPR005106  0.00539302650880074     2   2/2     Aspartate/homoserine dehydrogenase, NAD-binding                                       b0002, b3940
+IPR005856  0.00539302650880074     2   2/2     Cysteine synthase                                                                     b2414, b2421
+IPR006062  0.00539302650880074     2   2/2     Histidine biosynthesis protein                                                        b2025, b2024
+IPR011147  0.00539302650880074     2   2/2     Bifunctional aspartokinase/homoserine dehydrogenase, homoserine dehydrogenase domain  b0002, b3940
+IPR012846  0.00539302650880074     2   2/2     Acetolactate synthase, large subunit, biosynthetic                                    b0077, b3671
+IPR019811  0.00539302650880074     2   2/2     Homoserine dehydrogenase, conserved site                                              b0002, b3940
+IPR023000  0.00539302650880074     2   2/2     Shikimate kinase, conserved site                                                      b3390, b0388
+IPR024904  0.00539302650880074     2   2/2     Ornithine carbamoyltransferase                                                        b0273, b4254
+IPR028081  0.00539302650880074     2   2/2     Leucine-binding protein domain                                                        b3458, b3460
+IPR036263  0.00539302650880074     2   2/2     Chorismate mutase type II superfamily                                                 b2599, b2600
+IPR036589  0.00539302650880074     2   2/2     Homocysteine-binding domain superfamily                                               b0261, b4019
+IPR036979  0.00539302650880074     2   2/2     Chorismate mutase domain superfamily                                                  b2599, b2600
+IPR039368  0.00539302650880074     2   2/2     Acetolactate synthase large subunit, TPP binding domain                               b0077, b3671
+IPR039557  0.00539302650880074     2   2/2     AHAS, ACT domain                                                                      b0078, b3670
+IPR041743  0.00539302650880074     2   2/2     Bifunctional aspartokinase/homoserine dehydrogenase, N-terminal catalytic domain      b0002, b3940
+IPR042199  0.00539302650880074     2   2/2     Aspartokinase/Bifunctional aspartokinase/homoserine dehydrogenase, catalytic domain   b3940, b4024
+IPR049638  0.00539302650880074     2   2/2     Bifunctional aspartokinase/homoserine dehydrogenase                                   b0002, b3940
+IPR050214  0.00539302650880074     2   2/2     Cysteine synthase/Cystathionine beta-synthase                                         b2414, b2421
+IPR051204  0.00539302650880074     2   2/2     ABC transporter permease/solute-binding domain-containing protein                     b2130, b2128
+IPR051322  0.00539302650880074     2   2/2     Amino Acid ABC Transporter Permease                                                   b0198, b2307
+IPR051455  0.00539302650880074     2   2/2     Bacterial solute-binding protein 3                                                    b0655, b3268
+IPR051613  0.00539302650880074     2   2/2     ABC transporter permease HisMQ subfamily                                              b2308, b0862
+IPR054352  0.00539302650880074     2   2/2     Aspartokinase, ACT domain                                                             b0002, b4024
+IPR054542  0.00539302650880074     2   2/2     Cys/Met metabolism enzyme, pyridoxal-phosphate attachment site                        b3008, b3939
+IPR012001  0.006698070619450159    3   3/7     Thiamine pyrophosphate enzyme, N-terminal TPP-binding domain                          b0077, b3671, b4488
+IPR029062  0.011487420261132314    4   4/16    Class I glutamine amidotransferase-like                                               b4013, b2023, b0032, b1263
+IPR000399  0.011714737603999268    2   2/3     TPP-binding enzyme, conserved site                                                    b0077, b3671
+IPR007210  0.011714737603999268    2   2/3     ABC-type glycine betaine transport system, substrate-binding domain                   b2131, b2679
+IPR050072  0.011714737603999268    2   2/3     Peptidase M20A family, bacterial cell wall biosynthesis                               b2472, b3957
+IPR000634  0.020109182320971426    2   2/4     Serine/threonine dehydratase, pyridoxal-phosphate-binding site                        b0004, b3772
+IPR001261  0.020109182320971426    2   2/4     ArgE/DapE/ACY1/CPG2/YscS, conserved site                                              b2472, b3957
+IPR006130  0.020109182320971426    2   2/4     Aspartate/ornithine carbamoyltransferase                                              b0273, b4254
+IPR006131  0.020109182320971426    2   2/4     Aspartate/ornithine carbamoyltransferase, Asp/Orn-binding domain                      b0273, b4254
+IPR006132  0.020109182320971426    2   2/4     Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding                         b0273, b4254
+IPR031322  0.020109182320971426    2   2/4     Shikimate kinase/gluconokinase                                                        b3390, b0388
+IPR036901  0.020109182320971426    2   2/4     Aspartate/ornithine carbamoyltransferase superfamily                                  b0273, b4254
+IPR000620  0.022247790524759104    3   3/11    EamA domain                                                                           b1533, b1473, b0813
+IPR029035  0.022247790524759104    3   3/11    DHS-like NAD/FAD-binding domain superfamily                                           b0077, b3671, b4488
+IPR000534  0.030343538869901363    2   2/5     Semialdehyde dehydrogenase, NAD-binding                                               b3433, b3958
+IPR017932  0.030343538869901363    2   2/5     Glutamine amidotransferase type 2 domain                                              b3212, b0674
+IPR050638  0.030343538869901363    2   2/5     Amino Acid and Vitamin Transporters                                                   b1533, b0813
+IPR004839  0.03399730452080645     3   3/13    Aminotransferase, class I/classII, large domain                                       b2021, b1622, b4054
+IPR029061  0.03399730452080645     3   3/13    Thiamin diphosphate-binding fold                                                      b0077, b3671, b4488
+IPR011766  0.042203499481068836    2   2/6     Thiamine pyrophosphate enzyme, TPP-binding                                            b0077, b3671
+IPR046346  0.042203499481068836    2   2/6     Aminoacid dehydrogenase-like, N-terminal domain superfamily                           b0529, b3281
+IPR036291  0.046136399774990684    11  11/114  NAD(P)-binding domain superfamily                                                     b3940, b3774, b0529, b3958, b3281, b3433, b0031, b0002, b2600, b0386, b2913
