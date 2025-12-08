@@ -223,7 +223,6 @@ L’effort a plutôt porté sur :
 
 Même si la reproductibilité complète n’a pas encore été atteinte, la nouvelle structure du projet constitue une base plus fiable pour un futur travail d'amélioration.
 
-
 # Analyse de l’ensemble de gènes fourni
 
 L’analyse menée sur les ensembles de gènes (sets 01, 02, 03 et M2.8) repose sur des approches d’enrichissement fonctionnel (Gene Ontology), des visualisations structurelles (treemaps, heatmaps, wordclouds) et des méthodes de priorisation (coexpression, voisinage, PCA, LDA).
