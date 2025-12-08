@@ -10,7 +10,7 @@ setwd("~/GitHub/fr.utoulouse.GestionDonneesNonStructurees.Neo4J.Ecoli")
 # Chargement des librairies
 #------------------------------------------#
 if (!require("neo2R", quietly = TRUE)){install.packages("neo2R", repos='https://mirror.ibcp.fr/pub/CRAN/')}
-library("neo2R")
+library(neo2R)
 library(tidyverse)
 library(reticulate)
 if (!require("jsonlite", quietly = TRUE)){install.packages("jsonlite", repos='https://mirror.ibcp.fr/pub/CRAN/')}

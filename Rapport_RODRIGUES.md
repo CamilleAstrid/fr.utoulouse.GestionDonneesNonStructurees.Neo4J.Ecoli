@@ -223,13 +223,6 @@ L’effort a plutôt porté sur :
 
 Même si la reproductibilité complète n’a pas encore été atteinte, la nouvelle structure du projet constitue une base plus fiable pour un futur travail d'amélioration.
 
-Voici une **section complète, structurée et scientifiquement rédigée** pour ton rapport M2, intégrant :
-
-* les résultats observés dans **set.01**, **set.02**, **set.03** et **set.M2.8**,
-* les **différences qualitatives entre sets**,
-* les **limitations techniques** liées aux erreurs détectées dans les tests préalables (deltas sur InterPro, TU, coexpression, etc.),
-* une formulation adaptée à un rapport universitaire.
-
 
 # Analyse de l’ensemble de gènes fourni
 
