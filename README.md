@@ -13,7 +13,7 @@ Le travail s’inscrit dans le cadre du **Master Bioinformatique et Biologie des
 * `.gitignore` : Liste des fichiers et/ou dossiers à ignorer pour le git.
 * `Rapport.md` : Consignes du rapport de projet.
 * `Rapport_RODRIGUES.md` : Version finale du rapport rédigé pour l’UE en markdown.
-
+* `Rapport_RODRIGUES.pdf` : Version finale du rapport rédigé pour l’UE au format pdf.
 * `M2BBS_GDNS-APG_schema_base_neo4j.png` : Schéma de la base Neo4j pour le projet.
 * **generated.data/** : dossier regroupant les fichiers de données dérivées (générées par les scripts à partir des sources brutes).
 * **neo4j.data/** : dossier contenant les fichiers internes de Neo4j (base, transactions, configuration).
