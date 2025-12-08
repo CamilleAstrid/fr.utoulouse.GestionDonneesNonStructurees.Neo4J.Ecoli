@@ -40,6 +40,8 @@ else
     conda activate "$ENV_NAME"
 fi
 
+pip -m pip install neo4j
+
 #------------------------------------------#
 # Création de la structure des répertoires
 #------------------------------------------#
@@ -51,6 +53,10 @@ mkdir -p neo4j.data                        # répertoire où neo4j stocke ses do
 mkdir -p scripts                           # scripts de recherche d'enrichissement et de prioritization
 mkdir -p tests                             # résultats des tests
 mkdir -p generated.data                    # données générées par les scripts
+mkdir -p generated.data/set.01             # données générées pour le set.01
+mkdir -p generated.data/set.02             # données générées pour le set.02
+mkdir -p generated.data/set.03             # données générées pour le set.03
+mkdir -p generated.data/set.M2.8           # données générées pour le set.M2.8
 mkdir -p tmp                               # fichiers temporaires
 
 #------------------------------------------#
@@ -119,6 +125,10 @@ while read set;
 do \
     curl -s https://gitlab.com/rbarriot/data/-/raw/main/M2.GDNS-AP/$set.txt > query.sets/$set.txt ;
 done < $fichier
+# curl -s https://gitlab.com/rbarriot/data/-/raw/main/M2.GDNS-AP/set.01.txt > query.sets/set.01.txt
+# curl -s https://gitlab.com/rbarriot/data/-/raw/main/M2.GDNS-AP/set.02.txt > query.sets/set.02.txt
+# curl -s https://gitlab.com/rbarriot/data/-/raw/main/M2.GDNS-AP/set.03.txt > query.sets/set.03.txt
+# curl -s https://gitlab.com/rbarriot/data/-/raw/main/M2.GDNS-AP/set.M2.8.txt > query.sets/set.M2.8.txt
 
 #==========================================#
 # END SCRIPT1

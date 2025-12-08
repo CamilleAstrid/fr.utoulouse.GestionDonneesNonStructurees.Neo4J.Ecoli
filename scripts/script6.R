@@ -1,10 +1,10 @@
-#!/usr/bin/env Rscript
-
 #==========================================#
 # SCRIPT6
 #==========================================#
 # Script pour interagir avec la base de données Neo4j
 
+
+setwd("~/GitHub/fr.utoulouse.GestionDonneesNonStructurees.Neo4J.Ecoli")
 
 #------------------------------------------#
 # Chargement des librairies
@@ -26,7 +26,7 @@ neodb <- startGraph(
   check = FALSE,
   username = "neo4j", 
   password = "omybioinfo",
-  importPath = paste0(getwd(), "/neo4j.import"),
+  importPath = paste0(getwd(), "../neo4j.import"),
   .opts = list(ssl_verifypeer=0)
 )
 
@@ -149,7 +149,7 @@ SET n = row,
 CALL {
   LOAD CSV WITH HEADERS FROM 'file:///ncbi.pmid.genes.csv' AS line
   MATCH (p:PubMed {id: line.PMID}),
-        (g:Gene   {id: line.gene_id})
+        (g:Gene {id: line.gene_id})
   MERGE (p)-[:cites]->(g)
 } IN TRANSACTIONS OF 10000 ROWS
 " %>% cq
@@ -337,11 +337,13 @@ n.namespace = row.namespace
 # Relations is a
 #------------------------------------------#"
 "
-LOAD CSV WITH HEADERS FROM 'file:///go.is_a.edges.tsv' AS line FIELDTERMINATOR '\t' 
-MATCH (t1:GOTerm),(t2:GOTerm) 
-WHERE t1.id=line.term1 AND t2.id=line.term2
-WITH t1,t2 
-MERGE (t2)-[r:is_a]->(t1)
+CALL {
+  LOAD CSV WITH HEADERS FROM 'file:///go.is_a.edges.tsv' AS line FIELDTERMINATOR '\t' 
+  MATCH (t1:GOTerm),(t2:GOTerm) 
+  WHERE t1.id=line.term1 AND t2.id=line.term2
+  WITH t1,t2 
+  MERGE (t2)-[r:is_a]->(t1)
+} IN TRANSACTIONS OF 10000 ROWS
 " %>% cq
 
 # Vérification

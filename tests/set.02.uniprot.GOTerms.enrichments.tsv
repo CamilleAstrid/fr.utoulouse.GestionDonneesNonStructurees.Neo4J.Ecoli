@@ -1,72 +1,72 @@
-GO:0051301  4.3994435517747146e-67  53  53/62    https://amigo.geneontology.org/amigo/term/GO:0051301  b0632, b1107, b0093, b3189, b0094, b2748, b3017, b1575, b0923, b2412, b1569, b4520, b3933, b0084, b0087, b0742, b3972, b1731, b0085, b0174, b0740, b0089, b0741, b0924, b3163, b0890, b3247, b4409, b0095, b0086, b0436, b1570, b0738, b1175, b2894, b3811, b4233, b3232, b1352, b0088, b0922, b2742, b0634, b1916, b3462, b0739, b0090, b3463, b2910, b0956, b0737, b0091, b0083
-GO:0008360  1.489536500535892e-62   48  48/50    https://amigo.geneontology.org/amigo/term/GO:0008360  b0632, b0381, b1107, b1678, b3189, b0839, b2519, b0224, b3967, b2896, b1105, b2516, b0149, b3249, b0084, b3057, b0087, b3972, b3147, b3250, b3730, b0085, b0174, b0089, b1069, b0086, b0841, b4233, b3251, b0088, b3396, b1990, b3182, b0634, b0376, b1113, b4053, b0635, b0090, b0092, b0819, b2134, b2010, b0925, b0091, b1192, b3208, b2005
-GO:0009252  1.5196987545643175e-52  42  42/48    https://amigo.geneontology.org/amigo/term/GO:0009252  b0632, b0381, b1107, b1678, b3189, b0839, b2519, b0224, b3967, b1105, b2516, b0149, b3249, b0084, b3057, b0087, b3972, b3147, b3250, b3730, b0085, b0174, b0089, b1069, b0086, b0841, b4233, b3251, b0088, b3396, b3182, b0634, b4053, b0635, b0090, b0092, b2134, b2010, b0925, b0091, b1192, b3208
-GO:0071555  2.8552171465353595e-38  38  38/76    https://amigo.geneontology.org/amigo/term/GO:0071555  b0632, b0381, b1107, b1678, b3189, b0839, b2519, b0224, b3967, b0084, b3057, b0087, b3972, b3730, b0085, b0174, b0089, b1069, b0086, b0841, b4233, b0088, b3396, b1990, b3182, b0376, b1113, b4053, b0635, b0090, b0092, b0819, b2134, b2010, b0925, b0091, b1192, b3208
-GO:0032153  1.7719377501204007e-35  29  29/34    https://amigo.geneontology.org/amigo/term/GO:0032153  b0093, b3017, b2748, b0094, b3928, b2412, b3933, b2314, b0084, b0946, b1963, b0740, b0089, b0741, b3388, b0890, b0095, b0738, b3232, b3613, b2742, b0634, b3462, b0739, b3463, b0102, b2910, b0737, b0083
-GO:0043093  3.972993742825979e-27   24  24/35    https://amigo.geneontology.org/amigo/term/GO:0043093  b0093, b3017, b2748, b0094, b3928, b2412, b2516, b3933, b0084, b0742, b0946, b1963, b0089, b0890, b0095, b3251, b3182, b3462, b3463, b2134, b0102, b2910, b4206, b0083
-GO:0000917  2.3136948508187742e-23  18  18/18    https://amigo.geneontology.org/amigo/term/GO:0000917  b3462, b0084, b0093, b0095, b0094, b2748, b0946, b3928, b3463, b0890, b0083, b0958, b0102, b2910, b2412, b0089, b3865, b3933
-GO:1990586  6.583294315673685e-16   12  12/12    https://amigo.geneontology.org/amigo/term/GO:1990586  b3462, b0084, b0093, b0095, b0094, b2748, b3463, b0083, b2412, b0089, b0890, b3933
-GO:0008658  4.792298892933843e-13   10  10/11    https://amigo.geneontology.org/amigo/term/GO:0008658  b0632, b0635, b0084, b0839, b2519, b2010, b3396, b0149, b3182, b0376
-GO:0004180  8.004642226762087e-12   9   9/10     https://amigo.geneontology.org/amigo/term/GO:0004180  b0632, b0839, b2519, b0224, b2010, b0925, b1192, b3182, b0376
-GO:0009002  8.004642226762087e-12   9   9/10     https://amigo.geneontology.org/amigo/term/GO:0009002  b0632, b0635, b0084, b0839, b2134, b2010, b3396, b0149, b3182
-GO:0008955  8.82512125637271e-10    7   7/7      https://amigo.geneontology.org/amigo/term/GO:0008955  b0084, b2519, b3396, b0089, b3208, b0149, b0634
-GO:0000935  1.4707240847283227e-08  6   6/6      https://amigo.geneontology.org/amigo/term/GO:0000935  b3462, b1069, b4409, b3463, b4520, b3933
-GO:0071972  1.4707240847283227e-08  6   6/6      https://amigo.geneontology.org/amigo/term/GO:0071972  b1113, b0635, b1678, b0819, b0925, b1990
-GO:0007059  6.266225707435099e-08   8   8/20     https://amigo.geneontology.org/amigo/term/GO:0007059  b1175, b0923, b2894, b3811, b0956, b0924, b0922, b0890
-GO:0030428  2.4590334342799236e-07  5   5/5      https://amigo.geneontology.org/amigo/term/GO:0030428  b2748, b2910, b3388, b3933, b2314
-GO:0090529  2.4590334342799236e-07  5   5/5      https://amigo.geneontology.org/amigo/term/GO:0090529  b0739, b0738, b0740, b0737, b0741
-GO:1905153  2.4590334342799236e-07  5   5/5      https://amigo.geneontology.org/amigo/term/GO:1905153  b0739, b0738, b0740, b0737, b0741
-GO:0000270  7.441641073124872e-07   7   7/19     https://amigo.geneontology.org/amigo/term/GO:0000270  b0632, b3057, b2134, b0224, b2010, b3163, b3182
-GO:0006508  1.3681838609689144e-06  12  12/81    https://amigo.geneontology.org/amigo/term/GO:0006508  b0632, b0635, b0084, b0839, b2519, b2134, b2010, b3396, b1192, b0149, b3182, b0376
-GO:0000918  4.148747839422805e-06   4   4/4      https://amigo.geneontology.org/amigo/term/GO:0000918  b1176, b3641, b1175, b1174
-GO:0018104  4.148747839422805e-06   4   4/4      https://amigo.geneontology.org/amigo/term/GO:0018104  b1113, b0819, b1678, b1990
-GO:0051782  4.148747839422805e-06   4   4/4      https://amigo.geneontology.org/amigo/term/GO:0051782  b1352, b3251, b0958, b1575
-GO:0016757  6.05245311476137e-06    6   6/17     https://amigo.geneontology.org/amigo/term/GO:0016757  b1113, b1678, b0819, b0224, b0925, b1990
-GO:0005886  1.967556771371373e-05   50  50/1152  https://amigo.geneontology.org/amigo/term/GO:0005886  b0632, b0093, b0094, b2748, b0839, b2519, b2412, b2896, b2516, b4520, b0149, b3933, b3249, b2314, b0084, b3057, b0087, b1963, b3250, b0089, b3388, b3163, b0890, b3247, b1069, b4409, b0095, b0841, b0738, b1175, b3251, b3613, b3396, b1254, b2742, b0634, b3182, b3462, b0376, b0739, b0635, b0090, b3463, b2010, b2910, b1174, b0737, b4206, b3208, b0083
-GO:0042834  2.0187129717703133e-05  4   4/6      https://amigo.geneontology.org/amigo/term/GO:0042834  b3388, b3933, b2314, b4206
-GO:0043213  2.0187129717703133e-05  4   4/6      https://amigo.geneontology.org/amigo/term/GO:0043213  b0738, b0739, b0740, b0737
-GO:0051302  2.0187129717703133e-05  4   4/6      https://amigo.geneontology.org/amigo/term/GO:0051302  b1176, b0946, b1575, b1731
-GO:0000796  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:0000796  b0922, b0923, b0924
-GO:0000902  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:0000902  b1176, b3251, b3730
-GO:0015648  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:0015648  b1069, b0089, b0634
-GO:0051781  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:0051781  b3462, b2519, b3463
-GO:1990587  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:1990587  b2748, b0083, b0093
-GO:0009254  0.00011405359330097977  5   5/18     https://amigo.geneontology.org/amigo/term/GO:0009254  b3462, b1107, b3463, b4233, b1192
-GO:0017038  0.0003182569893494998   3   3/5      https://amigo.geneontology.org/amigo/term/GO:0017038  b0739, b0740, b0737
-GO:0046677  0.0003519267290071241   10  10/103   https://amigo.geneontology.org/amigo/term/GO:0046677  b0635, b3057, b4409, b0841, b3463, b1352, b3396, b0925, b0149, b3182
-GO:0009410  0.0004254607243943558   5   5/24     https://amigo.geneontology.org/amigo/term/GO:0009410  b0084, b0839, b2134, b3613, b2742
-GO:0030261  0.0005397539113485783   3   3/6      https://amigo.geneontology.org/amigo/term/GO:0030261  b0922, b0923, b0924
-GO:0000920  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0000920  b0890, b3613
-GO:0008716  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0008716  b0381, b0092
+GO:0051301  4.3994435517747146e-67  53  53/62    https://amigo.geneontology.org/amigo/term/GO:0051301  b0956, b0634, b4520, b0632, b0922, b0742, b0890, b0090, b3017, b0087, b4233, b0094, b2742, b3189, b1575, b1352, b0174, b0738, b1107, b3933, b0091, b0741, b1569, b0923, b3163, b1731, b2910, b0740, b2894, b3463, b0924, b0089, b0085, b1570, b2748, b3811, b3232, b0084, b0088, b0083, b1175, b0086, b3247, b0739, b3972, b0093, b2412, b0737, b0095, b3462, b4409, b1916, b0436
+GO:0008360  1.489536500535892e-62   48  48/50    https://amigo.geneontology.org/amigo/term/GO:0008360  b0634, b0376, b0632, b2010, b1192, b2896, b0090, b0087, b4233, b0224, b1678, b3967, b3189, b3057, b1113, b0149, b0841, b0174, b1105, b1107, b2516, b3730, b0635, b0091, b3251, b1990, b2005, b1069, b0089, b3147, b0085, b3396, b3182, b0381, b0084, b0088, b3250, b0092, b0086, b3972, b2519, b2134, b0839, b3208, b3249, b4053, b0925, b0819
+GO:0009252  1.5196987545643175e-52  42  42/48    https://amigo.geneontology.org/amigo/term/GO:0009252  b0634, b0632, b2010, b1192, b0090, b0087, b4233, b0224, b1678, b3967, b3189, b3057, b0149, b0841, b0174, b1105, b1107, b2516, b3730, b0635, b0091, b3251, b1069, b0089, b3147, b0085, b3396, b3182, b0381, b0084, b0088, b3250, b0092, b0086, b3972, b2519, b2134, b0839, b3208, b3249, b4053, b0925
+GO:0071555  2.8552171465353595e-38  38  38/76    https://amigo.geneontology.org/amigo/term/GO:0071555  b0376, b0632, b2010, b1192, b0090, b0087, b4233, b0224, b1678, b3967, b3189, b3057, b1113, b0841, b0174, b1107, b3730, b0635, b0091, b1990, b1069, b0089, b0085, b3396, b3182, b0381, b0084, b0088, b0092, b0086, b3972, b2519, b2134, b0839, b3208, b4053, b0925, b0819
+GO:0032153  1.7719377501204007e-35  29  29/34    https://amigo.geneontology.org/amigo/term/GO:0032153  b0634, b0890, b3017, b0094, b2742, b0738, b3933, b0741, b2910, b2314, b3928, b0740, b3463, b0089, b2748, b3232, b0084, b0083, b0739, b1963, b3388, b0093, b2412, b0737, b0095, b3462, b3613, b0102, b0946
+GO:0043093  3.972993742825979e-27   24  24/35    https://amigo.geneontology.org/amigo/term/GO:0043093  b0742, b0890, b3017, b0094, b4206, b2516, b3933, b3251, b2910, b3928, b3463, b0089, b2748, b3182, b0084, b0083, b1963, b0093, b2412, b0095, b3462, b2134, b0102, b0946
+GO:0000917  2.3136948508187742e-23  18  18/18    https://amigo.geneontology.org/amigo/term/GO:0000917  b0958, b3933, b0093, b0089, b2412, b3865, b0095, b0890, b2748, b3462, b2910, b3928, b3463, b0094, b0084, b0102, b0083, b0946
+GO:1990586  6.583294315673685e-16   12  12/12    https://amigo.geneontology.org/amigo/term/GO:1990586  b3933, b0093, b0089, b2412, b0095, b0890, b2748, b3462, b3463, b0094, b0084, b0083
+GO:0008658  4.792298892933843e-13   10  10/11    https://amigo.geneontology.org/amigo/term/GO:0008658  b0149, b0376, b0632, b0635, b2010, b3396, b3182, b2519, b0839, b0084
+GO:0004180  8.004642226762087e-12   9   9/10     https://amigo.geneontology.org/amigo/term/GO:0004180  b0376, b0632, b2010, b1192, b3182, b2519, b0224, b0839, b0925
+GO:0009002  8.004642226762087e-12   9   9/10     https://amigo.geneontology.org/amigo/term/GO:0009002  b0149, b0632, b0635, b2010, b3396, b3182, b2134, b0839, b0084
+GO:0008955  8.82512125637271e-10    7   7/7      https://amigo.geneontology.org/amigo/term/GO:0008955  b0149, b0634, b0089, b3396, b2519, b3208, b0084
+GO:0000935  1.4707240847283227e-08  6   6/6      https://amigo.geneontology.org/amigo/term/GO:0000935  b3933, b4520, b3462, b4409, b3463, b1069
+GO:0071972  1.4707240847283227e-08  6   6/6      https://amigo.geneontology.org/amigo/term/GO:0071972  b1113, b0635, b1990, b1678, b0925, b0819
+GO:0007059  6.266225707435099e-08   8   8/20     https://amigo.geneontology.org/amigo/term/GO:0007059  b0956, b0924, b0922, b0890, b3811, b0923, b2894, b1175
+GO:0030428  2.4590334342799236e-07  5   5/5      https://amigo.geneontology.org/amigo/term/GO:0030428  b3388, b3933, b2748, b2910, b2314
+GO:0090529  2.4590334342799236e-07  5   5/5      https://amigo.geneontology.org/amigo/term/GO:0090529  b0739, b0738, b0737, b0741, b0740
+GO:1905153  2.4590334342799236e-07  5   5/5      https://amigo.geneontology.org/amigo/term/GO:1905153  b0739, b0738, b0737, b0741, b0740
+GO:0000270  7.441641073124872e-07   7   7/19     https://amigo.geneontology.org/amigo/term/GO:0000270  b0632, b2010, b3163, b3182, b0224, b2134, b3057
+GO:0006508  1.3681838609689144e-06  12  12/81    https://amigo.geneontology.org/amigo/term/GO:0006508  b0149, b0376, b0632, b0635, b2010, b1192, b3396, b3182, b2519, b2134, b0839, b0084
+GO:0000918  4.148747839422805e-06   4   4/4      https://amigo.geneontology.org/amigo/term/GO:0000918  b1174, b3641, b1175, b1176
+GO:0018104  4.148747839422805e-06   4   4/4      https://amigo.geneontology.org/amigo/term/GO:0018104  b1113, b1678, b0819, b1990
+GO:0051782  4.148747839422805e-06   4   4/4      https://amigo.geneontology.org/amigo/term/GO:0051782  b1575, b1352, b0958, b3251
+GO:0016757  6.05245311476137e-06    6   6/17     https://amigo.geneontology.org/amigo/term/GO:0016757  b1113, b1990, b0224, b1678, b0925, b0819
+GO:0005886  1.967556771371373e-05   50  50/1152  https://amigo.geneontology.org/amigo/term/GO:0005886  b1254, b0634, b0376, b0632, b4520, b2010, b0890, b2896, b0090, b0087, b0094, b2742, b3057, b4206, b0149, b2516, b0841, b0738, b3933, b0635, b1174, b3163, b3251, b2910, b2314, b3463, b1069, b0089, b3396, b2748, b3182, b3250, b0084, b0083, b1175, b3247, b0739, b1963, b3388, b0093, b2412, b0737, b0095, b3462, b4409, b3613, b2519, b0839, b3249, b3208
+GO:0042834  2.0187129717703133e-05  4   4/6      https://amigo.geneontology.org/amigo/term/GO:0042834  b4206, b2314, b3388, b3933
+GO:0043213  2.0187129717703133e-05  4   4/6      https://amigo.geneontology.org/amigo/term/GO:0043213  b0737, b0739, b0738, b0740
+GO:0051302  2.0187129717703133e-05  4   4/6      https://amigo.geneontology.org/amigo/term/GO:0051302  b1731, b1575, b0946, b1176
+GO:0000796  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:0000796  b0922, b0924, b0923
+GO:0000902  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:0000902  b3730, b3251, b1176
+GO:0015648  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:0015648  b1069, b0634, b0089
+GO:0051781  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:0051781  b2519, b3463, b3462
+GO:1990587  7.136906666142886e-05   3   3/3      https://amigo.geneontology.org/amigo/term/GO:1990587  b0093, b0083, b2748
+GO:0009254  0.00011405359330097977  5   5/18     https://amigo.geneontology.org/amigo/term/GO:0009254  b1107, b1192, b3462, b4233, b3463
+GO:0017038  0.0003182569893494998   3   3/5      https://amigo.geneontology.org/amigo/term/GO:0017038  b0737, b0739, b0740
+GO:0046677  0.0003519267290071241   10  10/103   https://amigo.geneontology.org/amigo/term/GO:0046677  b0149, b0841, b0635, b3396, b3182, b4409, b3463, b0925, b1352, b3057
+GO:0009410  0.0004254607243943558   5   5/24     https://amigo.geneontology.org/amigo/term/GO:0009410  b3613, b2134, b0839, b0084, b2742
+GO:0030261  0.0005397539113485783   3   3/6      https://amigo.geneontology.org/amigo/term/GO:0030261  b0922, b0924, b0923
+GO:0000920  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0000920  b3613, b0890
+GO:0008716  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0008716  b0092, b0381
 GO:0019068  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0019068  b4142, b4143
-GO:0032272  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0032272  b3641, b0958
-GO:0032506  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0032506  b3388, b2314
+GO:0032272  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0032272  b0958, b3641
+GO:0032506  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0032506  b2314, b3388
 GO:0071237  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:0071237  b0739, b0740
 GO:1990220  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:1990220  b4142, b4143
-GO:1990588  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:1990588  b2748, b0083
-GO:0042597  0.0014590180110472214   8   8/83     https://amigo.geneontology.org/amigo/term/GO:0042597  b1113, b1678, b3147, b2134, b0740, b3613, b1990, b3182
-GO:0009295  0.0017224459946262613   3   3/9      https://amigo.geneontology.org/amigo/term/GO:0009295  b0922, b0923, b0924
-GO:0004175  0.0022543411059402826   4   4/21     https://amigo.geneontology.org/amigo/term/GO:0004175  b0224, b2134, b3182, b0376
-GO:0005856  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:0005856  b3247, b3251
-GO:0008800  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:0008800  b0632, b2010
-GO:0009274  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:0009274  b3208, b0149
-GO:0043164  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:0043164  b3208, b0174
-GO:2000245  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:2000245  b2005, b0958
+GO:1990588  0.0012799927802153725   2   2/2      https://amigo.geneontology.org/amigo/term/GO:1990588  b0083, b2748
+GO:0042597  0.0014590180110472214   8   8/83     https://amigo.geneontology.org/amigo/term/GO:0042597  b1113, b3147, b1990, b3182, b3613, b0740, b1678, b2134
+GO:0009295  0.0017224459946262613   3   3/9      https://amigo.geneontology.org/amigo/term/GO:0009295  b0922, b0924, b0923
+GO:0004175  0.0022543411059402826   4   4/21     https://amigo.geneontology.org/amigo/term/GO:0004175  b3182, b2134, b0224, b0376
+GO:0005856  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:0005856  b3251, b3247
+GO:0008800  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:0008800  b2010, b0632
+GO:0009274  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:0009274  b0149, b3208
+GO:0043164  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:0043164  b0174, b3208
+GO:2000245  0.002831955084770593    2   2/3      https://amigo.geneontology.org/amigo/term/GO:2000245  b0958, b2005
 GO:0009037  0.004950789506770776    2   2/4      https://amigo.geneontology.org/amigo/term/GO:0009037  b2894, b3811
-GO:0031241  0.004950789506770776    2   2/4      https://amigo.geneontology.org/amigo/term/GO:0031241  b3147, b1105
-GO:0050380  0.004950789506770776    2   2/4      https://amigo.geneontology.org/amigo/term/GO:0050380  b3057, b0841
+GO:0031241  0.004950789506770776    2   2/4      https://amigo.geneontology.org/amigo/term/GO:0031241  b1105, b3147
+GO:0050380  0.004950789506770776    2   2/4      https://amigo.geneontology.org/amigo/term/GO:0050380  b0841, b3057
 GO:0071139  0.004950789506770776    2   2/4      https://amigo.geneontology.org/amigo/term/GO:0071139  b2894, b3811
-GO:1904949  0.004950789506770776    2   2/4      https://amigo.geneontology.org/amigo/term/GO:1904949  b3462, b3463
-GO:0008047  0.00849849993094722     3   3/16     https://amigo.geneontology.org/amigo/term/GO:0008047  b3388, b2314, b1105
-GO:0042802  0.00948382700771882     21  21/475   https://amigo.geneontology.org/amigo/term/GO:0042802  b4142, b0093, b0094, b2748, b3928, b3641, b0946, b3730, b0924, b0890, b0095, b0436, b1175, b4233, b3251, b0088, b0102, b1176, b2910, b1174, b4143
-GO:0004222  0.010007007252690185    3   3/17     https://amigo.geneontology.org/amigo/term/GO:0004222  b2742, b3613, b4206
-GO:0005543  0.010772621675568647    2   2/6      https://amigo.geneontology.org/amigo/term/GO:0005543  b3232, b0956
+GO:1904949  0.004950789506770776    2   2/4      https://amigo.geneontology.org/amigo/term/GO:1904949  b3463, b3462
+GO:0008047  0.00849849993094722     3   3/16     https://amigo.geneontology.org/amigo/term/GO:0008047  b2314, b3388, b1105
+GO:0042802  0.00948382700771882     21  21/475   https://amigo.geneontology.org/amigo/term/GO:0042802  b0890, b4233, b0094, b4143, b3730, b1174, b3251, b2910, b3928, b0924, b2748, b0088, b1175, b3641, b0093, b4142, b0095, b1176, b0436, b0102, b0946
+GO:0004222  0.010007007252690185    3   3/17     https://amigo.geneontology.org/amigo/term/GO:0004222  b4206, b3613, b2742
+GO:0005543  0.010772621675568647    2   2/6      https://amigo.geneontology.org/amigo/term/GO:0005543  b0956, b3232
 GO:0006276  0.010772621675568647    2   2/6      https://amigo.geneontology.org/amigo/term/GO:0006276  b2894, b3811
-GO:0030288  0.011770856269334544    11  11/194   https://amigo.geneontology.org/amigo/term/GO:0030288  b0632, b0635, b3017, b0742, b0839, b2519, b0819, b0740, b3396, b3613, b0149
+GO:0030288  0.011770856269334544    11  11/194   https://amigo.geneontology.org/amigo/term/GO:0030288  b0149, b0632, b0635, b0742, b3396, b3017, b3613, b0740, b0839, b2519, b0819
 GO:0009009  0.014420121419640762    2   2/7      https://amigo.geneontology.org/amigo/term/GO:0009009  b2894, b3811
-GO:0030234  0.014420121419640762    2   2/7      https://amigo.geneontology.org/amigo/term/GO:0030234  b3147, b1105
+GO:0030234  0.014420121419640762    2   2/7      https://amigo.geneontology.org/amigo/term/GO:0030234  b1105, b3147
 GO:0048476  0.014420121419640762    2   2/7      https://amigo.geneontology.org/amigo/term/GO:0048476  b2894, b3811
 GO:0051085  0.023057354024699973    2   2/9      https://amigo.geneontology.org/amigo/term/GO:0051085  b4142, b4143
-GO:0019899  0.027997693703471434    2   2/10     https://amigo.geneontology.org/amigo/term/GO:0019899  b3147, b1105
+GO:0019899  0.027997693703471434    2   2/10     https://amigo.geneontology.org/amigo/term/GO:0019899  b1105, b3147
 GO:0019904  0.03332116602216722     2   2/11     https://amigo.geneontology.org/amigo/term/GO:0019904  b0739, b0740
-GO:0060187  0.03332116602216722     2   2/11     https://amigo.geneontology.org/amigo/term/GO:0060187  b1176, b1175
+GO:0060187  0.03332116602216722     2   2/11     https://amigo.geneontology.org/amigo/term/GO:0060187  b1175, b1176

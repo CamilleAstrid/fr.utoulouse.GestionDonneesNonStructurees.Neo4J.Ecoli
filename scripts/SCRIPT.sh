@@ -78,7 +78,10 @@ progress_bar "$current_test" "$total_tests" "Étape 6/7 : Exécution des tests d
 # Étape 7 : Calculs de similarité et priorisation des gènes candidats
 current_test=$((current_test+1))
 progress_bar "$current_test" "$total_tests" "Étape 7/7 : Calculs de similarité et priorisation des gènes candidats"
-R -q --vanilla < scripts/script9.R > step7.log 2>&1
+fichier="query.sets/liste.sets.txt"
+while read set;
+do R -q --vanilla < scripts/script9-auto.R $set > step7.log 2>&1 ;
+done < $fichier
 
 #==========================================#
 # END MAIN SCRIPT

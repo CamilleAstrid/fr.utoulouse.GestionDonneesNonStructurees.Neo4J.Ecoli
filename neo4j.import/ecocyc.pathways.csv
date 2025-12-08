@@ -1,16 +1,17 @@
 id,desc
 1CMET2-PWY,folate transformations III (<i>E. coli</i>)
 2PHENDEG-PWY,phenylethylamine degradation I
-4AMINOBUTMETAB-PWY,superpathway of 4-aminobutanoate degradation to succinate
+4AMINOBUTMETAB-PWY,superpathway of 4-aminobutanoate degradation
 ACETATEUTIL-PWY,superpathway of acetate utilization and formation
 ACETOACETATE-DEG-PWY,acetoacetate degradation (to acetyl CoA)
 ALADEG-PWY,L-alanine degradation I
 ALANINE-SYN2-PWY,L-alanine biosynthesis II
+ALANINE-VALINESYN-PWY,L-alanine biosynthesis I
 ALKANEMONOX-PWY,two-component alkanesulfonate monooxygenase
 ALL-CHORISMATE-PWY,superpathway of chorismate metabolism
 AMMASSIM-PWY,ammonia assimilation cycle III
 ARABCAT-PWY,L-arabinose degradation I
-ARG+POLYAMINE-SYN,superpathway of arginine and polyamine biosynthesis (from L-glutamate)
+ARG+POLYAMINE-SYN,superpathway of arginine and polyamine biosynthesis
 ARGDEG-PWY,"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"
 ARGSYN-PWY,L-arginine biosynthesis I (via L-ornithine)
 ARO-PWY,chorismate biosynthesis I
@@ -20,14 +21,14 @@ ASPASN-PWY,superpathway of L-aspartate and L-asparagine biosynthesis
 AST-PWY,L-arginine degradation II (AST pathway)
 BETSYN-PWY,glycine betaine biosynthesis I (Gram-negative bacteria)
 BGALACT-PWY,lactose degradation III
-BIOTIN-BIOSYNTHESIS-PWY,superpathway of biotin biosynthesis I
+BIOTIN-BIOSYNTHESIS-PWY,biotin biosynthesis I
 BRANCHED-CHAIN-AA-SYN-PWY,superpathway of branched chain amino acid biosynthesis
 BSUBPOLYAMSYN-PWY,spermidine biosynthesis I
 CARNMET-PWY,L-carnitine degradation I
 COA-PWY,coenzyme A biosynthesis I (bacteria)
 COBALSYN-PWY,superpathway of adenosylcobalamin salvage from cobinamide I
 COLANSYN-PWY,colanic acid building blocks biosynthesis
-COMPLETE-ARO-PWY,superpathway of aromatic amino acid biosynthesis (from phospho<i>enol</i>pyruvate and D-erythrose 4-phosphate)
+COMPLETE-ARO-PWY,superpathway of aromatic amino acid biosynthesis
 CYANCAT-PWY,cyanate degradation
 CYSTSYN-PWY,L-cysteine biosynthesis I
 DAPLYSINESYN-PWY,L-lysine biosynthesis I
@@ -49,15 +50,16 @@ GALACT-GLUCUROCAT-PWY,superpathway of hexuronide and hexuronate degradation
 GALACTARDEG-PWY,D-galactarate degradation I
 GALACTCAT-PWY,D-galactonate degradation
 GALACTITOLCAT-PWY,galactitol degradation
+GALACTMETAB-PWY,galactose degradation I (Leloir pathway)
 GALACTUROCAT-PWY,D-galacturonate degradation I
-GLCMANNANAUT-PWY,"superpathway of <i>N</i>-acetylneuraminate, <i>N</i>-acetylglucosamine, and <i>N</i>-acetylmannosamine degradation to &beta;-D-fructofuranose 6-phosphate"
+GLCMANNANAUT-PWY,"superpathway of <i>N</i>-acetylglucosamine, <i>N</i>-acetylmannosamine and <i>N</i>-acetylneuraminate degradation"
 GLUAMCAT-PWY,<i>N</i>-acetylglucosamine degradation I
 GLUCARDEG-PWY,<i>D</i>-glucarate degradation I
 GLUCARGALACTSUPER-PWY,superpathway of D-glucarate and D-galactarate degradation
 GLUCONEO-PWY,gluconeogenesis I
 GLUCONSUPER-PWY,D-gluconate degradation
 GLUCOSE1PMETAB-PWY,glucose and glucose-1-phosphate degradation
-GLUCUROCAT-PWY,superpathway of &beta;-D-glucuronides degradation (to pyruvate)
+GLUCUROCAT-PWY,superpathway of &beta;-D-glucuronosides degradation
 GLUT-REDOX-PWY,glutathione-glutaredoxin redox reactions
 GLUTAMINDEG-PWY,L-glutamine degradation I
 GLUTATHIONESYN-PWY,glutathione biosynthesis
@@ -86,7 +88,7 @@ HOMOSERSYN-PWY,L-homoserine biosynthesis
 IDNCAT-PWY,L-idonate degradation
 ILEUSYN-PWY,L-isoleucine biosynthesis I (from threonine)
 KDO-LIPASYN-PWY,(Kdo)<sub>2</sub>-lipid A biosynthesis (<i>E. coli</i>)
-KDO-NAGLIPASYN-PWY,superpathway of (Kdo)<SUB>2</SUB>-lipid A biosynthesis (<i>E. coli</i>)
+KDO-NAGLIPASYN-PWY,superpathway of (Kdo)<SUB>2</SUB>-lipid A biosynthesis
 KETOGLUCONMET-PWY,ketogluconate metabolism
 LCYSDEG-PWY,L-cysteine degradation II
 LEUSYN-PWY,L-leucine biosynthesis
@@ -94,8 +96,9 @@ LIPA-CORESYN-PWY,lipid A-core biosynthesis (<i>E. coli</i> K-12)
 LPSSYN-PWY,superpathway of Kdo<sub>2</sub>-lipid A biosynthesis
 LYXMET-PWY,L-lyxose degradation
 MANNCAT-PWY,D-mannose degradation I
-MET-SAM-PWY,superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis from L-aspartate
+MET-SAM-PWY,superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis
 METHGLYUT-PWY,superpathway of methylglyoxal degradation
+METSYN-PWY,superpathway of L-homoserine and L-methionine biosynthesis
 NADPHOS-DEPHOS-PWY,NAD phosphorylation and dephosphorylation
 NAGLIPASYN-PWY,lipid IV<sub>A</sub> biosynthesis (<i>E. coli</i>)
 NONMEVIPP-PWY,methylerythritol phosphate pathway I
@@ -161,13 +164,13 @@ PWY-6121,5-aminoimidazole ribonucleotide biosynthesis I
 PWY-6122,5-aminoimidazole ribonucleotide biosynthesis II
 PWY-6123,inosine-5'-phosphate biosynthesis I
 PWY-6125,superpathway of guanosine nucleotides <i>de novo</i> biosynthesis II
-PWY-6126,superpathway of adenosine nucleotides <i>de novo</i> biosynthesis II (from IMP and L-aspartate)
+PWY-6126,superpathway of adenosine nucleotides <i>de novo</i> biosynthesis II
 PWY-6147,6-hydroxymethyl-dihydropterin diphosphate biosynthesis I
 PWY-6151,<i>S</i>-adenosyl-L-methionine salvage I
 PWY-6153,autoinducer AI-2 biosynthesis I
 PWY-6163,chorismate biosynthesis from 3-dehydroquinate
 PWY-6164,3-dehydroquinate biosynthesis I
-PWY-6277,superpathway of 5-aminoimidazole ribonucleotide biosynthesis (from PRPP)
+PWY-6277,superpathway of 5-aminoimidazole ribonucleotide biosynthesis
 PWY-6282,palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)
 PWY-6284,superpathway of unsaturated fatty acids biosynthesis (<i>E. coli</i>)
 PWY-6387,UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing)
@@ -284,6 +287,7 @@ PWY0-1470,"QseBC Two-Component Signal Transduction System, quorum sensing relate
 PWY0-1471,uracil degradation III
 PWY0-1474,AtoSC Two-Component Signal Transduction System
 PWY0-1477,ethanolamine utilization
+PWY0-1479,tRNA processing
 PWY0-1481,BaeSR Two-Component Signal Transduction System
 PWY0-1482,BasSR Two-Component Signal Transduction System
 PWY0-1483,"PhoRB Two-Component Signal Transduction System, phosphate-dependent"
@@ -294,6 +298,7 @@ PWY0-1492,UhpBA Two Component Signal Transduction System
 PWY0-1493,Rcs Signal Transduction System
 PWY0-1495,"KdpDE Two-Component Signal Transduction System, potassium-dependent"
 PWY0-1497,RstBA Two-Component Signal Transduction System
+PWY0-1498,ZraSR Two-Component Signal Transduction System
 PWY0-1499,DpiBA Two-Component Signal Transduction System
 PWY0-1500,EnvZ/OmpR Two-Component Signal Transduction System
 PWY0-1501,BarA UvrY Two-Component Signal Transduction System
@@ -306,8 +311,8 @@ PWY0-1512,CusSR Two-Component Signal Transduction System
 PWY0-1514,"NarQ Two-Component Signal Transduction System, nitrate dependent"
 PWY0-1515,"NarX Two-Component Signal Transduction System, nitrate dependent"
 PWY0-1517,sedoheptulose bisphosphate bypass
-PWY0-1518,chemotaxis signal transduction
-PWY0-1519,aerotaxis signal transduction
+PWY0-1518,Chemotactic Two-Component Signal Transduction
+PWY0-1519,Aerotactic Two-Component Signal Transduction System
 PWY0-1533,methylphosphonate degradation I
 PWY0-1535,D-serine degradation
 PWY0-1544,proline to cytochrome <i>bo</i> oxidase electron transfer
@@ -357,7 +362,7 @@ PWY0-781,aspartate superpathway
 PWY0-823,L-arginine degradation III (arginine decarboxylase/agmatinase pathway)
 PWY0-845,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage
 PWY0-862,(5Z)-dodecenoate biosynthesis I
-PWY0-881,superpathway of fatty acid biosynthesis I (<i>E. coli</i>)
+PWY0-881,superpathway of fatty acid biosynthesis I (E. coli)
 PWY0-901,L-selenocysteine biosynthesis I (bacteria)
 PYRIDNUCSAL-PWY,NAD salvage pathway I (PNC VI cycle)
 PYRIDNUCSYN-PWY,NAD <i>de novo</i> biosynthesis I
@@ -372,7 +377,7 @@ SERDEG-PWY,L-serine degradation
 SO4ASSIM-PWY,assimilatory sulfate reduction I
 TCA,TCA cycle I (prokaryotic)
 TCA-GLYOX-BYPASS,superpathway of glyoxylate bypass and TCA
-THIOREDOX-PWY,thioredoxin pathway (NADPH)
+THIOREDOX-PWY,thioredoxin pathway
 THISYN-PWY,superpathway of thiamine diphosphate biosynthesis I
 THRDLCTCAT-PWY,L-threonine degradation III (to methylglyoxal)
 THREOCAT-PWY,superpathway of L-threonine metabolism

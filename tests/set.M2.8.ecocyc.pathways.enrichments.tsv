@@ -1,8 +1,8 @@
-PWY-8243      1.5949857565866368e-06  9  9/11  colanic acid (<i>Escherichia coli</i> K12) biosynthesis              b2058, b2059, b2057, b2044, b2050, b2055, b2045, b2054, b2047
-PWY0-1493     0.003329689748407833    3  3/3   Rcs Signal Transduction System                                       b2217, b2216, b2218
-PWY-66        0.0167558356098967      2  2/2   GDP-L-fucose biosynthesis I (from GDP-D-mannose)                     b2053, b2052
-PWY0-1458     0.0167558356098967      2  2/2   PhoQP Two-Component Signal Transduction System, magnesium-dependent  b1129, b1130
-PWY0-1578     0.02158265019512467     3  3/6   hydrogen to trimethylamine N-oxide electron transfer                 b2996, b0997, b2997
-COLANSYN-PWY  0.023479804889967107    4  4/11  colanic acid building blocks biosynthesis                            b2048, b2049, b2053, b2052
+PWY-8243      1.5949857565866368e-06  9  9/11  colanic acid (<i>Escherichia coli</i> K12) biosynthesis              b2059, b2047, b2044, b2050, b2058, b2054, b2045, b2055, b2057
+PWY0-1493     0.003329689748407833    3  3/3   Rcs Signal Transduction System                                       b2217, b2218, b2216
+PWY-66        0.0167558356098967      2  2/2   GDP-L-fucose biosynthesis I (from GDP-D-mannose)                     b2052, b2053
+PWY0-1458     0.0167558356098967      2  2/2   PhoQP Two-Component Signal Transduction System, magnesium-dependent  b1130, b1129
+PWY0-1578     0.02158265019512467     3  3/6   hydrogen to trimethylamine N-oxide electron transfer                 b0997, b2996, b2997
+COLANSYN-PWY  0.023479804889967107    4  4/11  colanic acid building blocks biosynthesis                            b2052, b2053, b2048, b2049
 PWY0-1577     0.03197169062231544     3  3/7   hydrogen to dimethyl sulfoxide electron transfer                     b2996, b0894, b2997
-PWY0-1355     0.0445357198636283      3  3/8   formate to trimethylamine <i>N</i>-oxide electron transfer           b3894, b0997, b1474
+PWY0-1355     0.0445357198636283      3  3/8   formate to trimethylamine <i>N</i>-oxide electron transfer           b0997, b3894, b1474

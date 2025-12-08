@@ -1,34 +1,34 @@
-COMPLETE-ARO-PWY           6.722017718279176e-10   19  19/20  superpathway of aromatic amino acid biosynthesis                       b1704, b1264, b1261, b2599, b0908, b1263, b1260, b4054, b2601, b1262, b1693, b3281, b3770, b2600, b0388, b0754, b2329, b3390, b3389
-P4-PWY                     2.022089857765728e-09   18  18/19  superpathway of L-lysine, L-threonine and L-methionine biosynthesis I  b0907, b2478, b0003, b4019, b2838, b3809, b0031, b3008, b0166, b4013, b3939, b1622, b3829, b0004, b3359, b3433, b2472, b4024
-PWY0-781                   1.2476560979482584e-07  18  18/25  aspartate superpathway                                                 b0907, b2478, b0003, b4019, b2838, b3809, b0031, b3008, b0166, b4013, b3939, b1622, b3829, b0004, b3359, b3433, b2472, b4024
-BRANCHED-CHAIN-AA-SYN-PWY  4.773745425760254e-07   13  13/14  superpathway of branched chain amino acid biosynthesis                 b0073, b4054, b3771, b3774, b0071, b0072, b3772, b3770, b3769, b4243, b0078, b0074, b0077
-ARGSYN-PWY                 4.184666778867153e-06   11  11/12  L-arginine biosynthesis I (via L-ornithine)                            b0273, b3958, b2818, b3959, b0032, b4254, b3957, b0033, b3359, b3172, b3960
-ARO-PWY                    5.460399857494892e-06   10  10/10  chorismate biosynthesis I                                              b2601, b0388, b3281, b0754, b1704, b2329, b0908, b3390, b1693, b3389
-DAPLYSINESYN-PWY           5.460399857494892e-06   10  10/10  L-lysine biosynthesis I                                                b0907, b2478, b2838, b0031, b0166, b3809, b3359, b3433, b2472, b4024
-HISTSYN-PWY                4.814875018660184e-05   8   8/8    L-histidine biosynthesis                                               b2020, b2024, b2025, b2023, b2021, b2022, b2019, b2026
-ILEUSYN-PWY                4.814875018660184e-05   8   8/8    L-isoleucine biosynthesis I (from threonine)                           b3771, b3774, b3772, b3770, b3769, b4243, b0078, b0077
-METSYN-PWY                 4.814875018660184e-05   8   8/8    superpathway of L-homoserine and L-methionine biosynthesis             b3940, b4019, b4013, b3008, b3939, b3829, b3433, b1622
-VALSYN-PWY                 4.814875018660184e-05   8   8/8    L-valine biosynthesis                                                  b3771, b3774, b3671, b3770, b3670, b3769, b0078, b0077
-MET-SAM-PWY                0.00010812249059963392  8   8/9    superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis            b3940, b4019, b4013, b3008, b3939, b3829, b3433, b1622
-ARG+POLYAMINE-SYN          0.0002538541829949373   11  11/19  superpathway of arginine and polyamine biosynthesis                    b0273, b3958, b2818, b3959, b0032, b4254, b3957, b0033, b3359, b3172, b3960
-HOMOSER-METSYN-PWY         0.0004297603736012698   6   6/6    L-methionine biosynthesis I                                            b4019, b3008, b4013, b3939, b3829, b1622
-PWY-6163                   0.0004297603736012698   6   6/6    chorismate biosynthesis from 3-dehydroquinate                          b0388, b3281, b2329, b0908, b3390, b1693
-GLUTAMINDEG-PWY            0.0007189358272228847   9   9/15   L-glutamine degradation I                                              b1264, b0032, b2025, b0033, b2023, b3212, b3213, b0674, b1263
-LEUSYN-PWY                 0.0009522262896701033   6   6/7    L-leucine biosynthesis                                                 b0073, b4054, b0072, b0071, b3770, b0074
-THRESYN-PWY                0.0009522262896701033   6   6/7    superpathway of L-threonine biosynthesis                               b3940, b0003, b0004, b0002, b3433, b4024
-AMMASSIM-PWY               0.00112438724266224     9   9/16   ammonia assimilation cycle III                                         b1264, b0032, b2025, b0033, b2023, b3212, b3213, b0674, b1263
-TRPSYN-PWY                 0.0012976502981563393   5   5/5    L-tryptophan biosynthesis                                              b1262, b1264, b1261, b1263, b1260
-ALL-CHORISMATE-PWY         0.002286859694145835    19  19/58  superpathway of chorismate metabolism                                  b1704, b1264, b1261, b2599, b0908, b1263, b1260, b4054, b2601, b1262, b1693, b3281, b3770, b2600, b0388, b0754, b2329, b3390, b3389
-GLUTORN-PWY                0.0028465924093346766   5   5/6    L-ornithine biosynthesis I                                             b2818, b3958, b3959, b3957, b3359
-HOMOSERSYN-PWY             0.003970610877791474    4   4/4    L-homoserine biosynthesis                                              b3433, b0002, b3940, b4024
-PWY-6164                   0.003970610877791474    4   4/4    3-dehydroquinate biosynthesis I                                        b2601, b1704, b0754, b3389
-LCYSDEG-PWY                0.005426524786490946    5   5/7    L-cysteine degradation II                                              b3008, b4243, b2421, b2414, b1622
-PHESYN                     0.008587281748758455    4   4/5    L-phenylalanine biosynthesis I                                         b4054, b2599, b2600, b3770
-CYSTSYN-PWY                0.012427216380329294    3   3/3    L-cysteine biosynthesis I                                              b3607, b2421, b2414
-PROSYN-PWY                 0.012427216380329294    3   3/3    L-proline biosynthesis I (from L-glutamate)                            b0242, b0243, b0386
-GLUTSYN-PWY                0.01578415373056295     4   4/6    L-glutamate biosynthesis I                                             b1263, b3212, b1264, b3213
-TYRSYN                     0.02629029372032488     3   3/4    L-tyrosine biosynthesis I                                              b2599, b4054, b2600
-ASPARAGINESYN-PWY          0.04058329863858702     2   2/2    L-asparagine biosynthesis II                                           b0674, b3744
+COMPLETE-ARO-PWY           6.722017718279176e-10   19  19/20  superpathway of aromatic amino acid biosynthesis                       b3770, b1704, b1693, b2599, b2600, b3390, b0388, b1264, b3389, b1260, b1263, b0908, b3281, b0754, b2601, b2329, b1262, b1261, b4054
+P4-PWY                     2.022089857765728e-09   18  18/19  superpathway of L-lysine, L-threonine and L-methionine biosynthesis I  b1622, b0907, b0166, b3939, b4013, b2472, b4024, b0004, b2838, b2478, b3433, b0003, b0031, b3809, b3008, b3359, b4019, b3829
+PWY0-781                   1.2476560979482584e-07  18  18/25  aspartate superpathway                                                 b1622, b0004, b0166, b3939, b0907, b2472, b4024, b3433, b2838, b2478, b0003, b0031, b3809, b3008, b3359, b4019, b4013, b3829
+BRANCHED-CHAIN-AA-SYN-PWY  4.773745425760254e-07   13  13/14  superpathway of branched chain amino acid biosynthesis                 b4243, b3770, b3774, b0073, b0078, b3771, b0071, b3772, b0077, b0074, b3769, b4054, b0072
+ARGSYN-PWY                 4.184666778867153e-06   11  11/12  L-arginine biosynthesis I (via L-ornithine)                            b3172, b3959, b4254, b2818, b0033, b0273, b3957, b0032, b3960, b3359, b3958
+ARO-PWY                    5.460399857494892e-06   10  10/10  chorismate biosynthesis I                                              b0908, b3390, b3281, b0754, b1704, b0388, b2601, b1693, b2329, b3389
+DAPLYSINESYN-PWY           5.460399857494892e-06   10  10/10  L-lysine biosynthesis I                                                b0907, b0166, b3433, b2472, b4024, b2838, b2478, b0031, b3809, b3359
+HISTSYN-PWY                4.814875018660184e-05   8   8/8    L-histidine biosynthesis                                               b2025, b2024, b2020, b2026, b2021, b2019, b2023, b2022
+ILEUSYN-PWY                4.814875018660184e-05   8   8/8    L-isoleucine biosynthesis I (from threonine)                           b4243, b3770, b3774, b0078, b3771, b3772, b0077, b3769
+METSYN-PWY                 4.814875018660184e-05   8   8/8    superpathway of L-homoserine and L-methionine biosynthesis             b3940, b1622, b3939, b3433, b4013, b3008, b4019, b3829
+VALSYN-PWY                 4.814875018660184e-05   8   8/8    L-valine biosynthesis                                                  b3670, b3770, b3774, b3771, b0078, b3671, b0077, b3769
+MET-SAM-PWY                0.00010812249059963392  8   8/9    superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis            b3940, b1622, b3939, b3433, b4013, b3008, b4019, b3829
+ARG+POLYAMINE-SYN          0.0002538541829949373   11  11/19  superpathway of arginine and polyamine biosynthesis                    b3359, b3172, b3959, b4254, b2818, b0033, b3957, b0032, b3960, b0273, b3958
+HOMOSER-METSYN-PWY         0.0004297603736012698   6   6/6    L-methionine biosynthesis I                                            b1622, b3939, b3008, b4019, b4013, b3829
+PWY-6163                   0.0004297603736012698   6   6/6    chorismate biosynthesis from 3-dehydroquinate                          b0908, b3390, b3281, b0388, b1693, b2329
+GLUTAMINDEG-PWY            0.0007189358272228847   9   9/15   L-glutamine degradation I                                              b2025, b0033, b3212, b1263, b0032, b0674, b2023, b1264, b3213
+LEUSYN-PWY                 0.0009522262896701033   6   6/7    L-leucine biosynthesis                                                 b3770, b0073, b0071, b0074, b4054, b0072
+THRESYN-PWY                0.0009522262896701033   6   6/7    superpathway of L-threonine biosynthesis                               b3940, b0004, b3433, b4024, b0003, b0002
+AMMASSIM-PWY               0.00112438724266224     9   9/16   ammonia assimilation cycle III                                         b2025, b0033, b3212, b1263, b0032, b0674, b2023, b1264, b3213
+TRPSYN-PWY                 0.0012976502981563393   5   5/5    L-tryptophan biosynthesis                                              b1260, b1261, b1263, b1264, b1262
+ALL-CHORISMATE-PWY         0.002286859694145835    19  19/58  superpathway of chorismate metabolism                                  b3770, b1704, b1693, b2599, b2600, b3390, b0388, b3389, b1264, b1260, b1263, b0908, b3281, b0754, b2601, b2329, b1262, b1261, b4054
+GLUTORN-PWY                0.0028465924093346766   5   5/6    L-ornithine biosynthesis I                                             b3959, b2818, b3957, b3359, b3958
+HOMOSERSYN-PWY             0.003970610877791474    4   4/4    L-homoserine biosynthesis                                              b3433, b4024, b3940, b0002
+PWY-6164                   0.003970610877791474    4   4/4    3-dehydroquinate biosynthesis I                                        b0754, b1704, b3389, b2601
+LCYSDEG-PWY                0.005426524786490946    5   5/7    L-cysteine degradation II                                              b1622, b4243, b2414, b3008, b2421
+PHESYN                     0.008587281748758455    4   4/5    L-phenylalanine biosynthesis I                                         b2600, b3770, b4054, b2599
+CYSTSYN-PWY                0.012427216380329294    3   3/3    L-cysteine biosynthesis I                                              b2421, b2414, b3607
+PROSYN-PWY                 0.012427216380329294    3   3/3    L-proline biosynthesis I (from L-glutamate)                            b0386, b0242, b0243
+GLUTSYN-PWY                0.01578415373056295     4   4/6    L-glutamate biosynthesis I                                             b3212, b1264, b1263, b3213
+TYRSYN                     0.02629029372032488     3   3/4    L-tyrosine biosynthesis I                                              b2600, b4054, b2599
+ASPARAGINESYN-PWY          0.04058329863858702     2   2/2    L-asparagine biosynthesis II                                           b3744, b0674
 HOMOSER-THRESYN-PWY        0.04058329863858702     2   2/2    L-threonine biosynthesis                                               b0003, b0004
-PWY0-1325                  0.04058329863858702     2   2/2    superpathway of L-asparagine biosynthesis                              b0674, b3744
-PWY-6151                   0.04587087990959086     3   3/5    <i>S</i>-adenosyl-L-methionine salvage I                               b4019, b0159, b3829
+PWY0-1325                  0.04058329863858702     2   2/2    superpathway of L-asparagine biosynthesis                              b3744, b0674
+PWY-6151                   0.04587087990959086     3   3/5    <i>S</i>-adenosyl-L-methionine salvage I                               b0159, b4019, b3829

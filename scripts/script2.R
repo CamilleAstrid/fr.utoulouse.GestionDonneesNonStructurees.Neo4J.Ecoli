@@ -4,6 +4,8 @@
 # Script pour générer les fichiers de référence JSON
 
 
+setwd("~/GitHub/fr.utoulouse.GestionDonneesNonStructurees.Neo4J.Ecoli")
+
 #------------------------------------------#
 # Chargement des librairies
 #------------------------------------------#
@@ -227,7 +229,7 @@ ref_sets <- pathway_sets %>%
 # Sauvegarde au format JSON
 ref_sets %>%
     toJSON(pretty = TRUE) %>%
-    write("reference.sets/ecocyc.pathways.sets.json")
+    write("reference.sets/ecocyc.Pathways.sets.json")
 
 #------------------------------------------#
 # Reformatage des données : TU (transcription units)

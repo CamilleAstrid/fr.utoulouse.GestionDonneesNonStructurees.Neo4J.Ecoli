@@ -1,9 +1,0 @@
-[###-------------------------------------]   8% (1/12) set.01Transaction failed and will be retried in 0.8552207609721915s (Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
-Failed to read four byte Bolt handshake response from server ResolvedIPv4Address(('127.0.0.1', 7687)) (deadline Deadline(timeout=60.0)))
-Transaction failed and will be retried in 1.9140112887391791s (Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
-Failed to read four byte Bolt handshake response from server ResolvedIPv4Address(('127.0.0.1', 7687)) (deadline Deadline(timeout=60.0)))
-Transaction failed and will be retried in 4.380956377048769s (Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
-Failed to read four byte Bolt handshake response from server ResolvedIPv4Address(('127.0.0.1', 7687)) (deadline Deadline(timeout=60.0)))
-Transaction failed and will be retried in 8.776726441887668s (Couldn't connect to localhost:7687 (resolved to ('127.0.0.1:7687',)):
-Failed to read four byte Bolt handshake response from server ResolvedIPv4Address(('127.0.0.1', 7687)) (deadline Deadline(timeout=60.0)))
-[######----------------------------------]  16% (2/12) set.01[##########------------------------------]  25% (3/12) set.01[#############---------------------------]  33% (4/12) set.02[################------------------------]  41% (5/12) set.02[####################--------------------]  50% (6/12) set.02[#######################-----------------]  58% (7/12) set.03[##########################--------------]  66% (8/12) set.03[##############################----------]  75% (9/12) set.03[#################################-------]  83% (10/12) set.M2.8[####################################----]  91% (11/12) set.M2.8[########################################] 100% (12/12) set.M2.8
