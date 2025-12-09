@@ -42,6 +42,7 @@ Cette organisation vise à séparer clairement **les données brutes**, **les do
 * bash
 * cypher
 * python
+* R
 
 ### Packages
 
